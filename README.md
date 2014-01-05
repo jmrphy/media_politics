@@ -1,19 +1,21 @@
 Politics of the Media
 ========================
 
-### Overview 
+[I. Overview](##overview)
+[II. Summary of teaching and learning strategies](##summary-of-teaching-and-learning-strategies)
+[III. Overview](##aims-and-objectives)
 
-This module provides a theoretical and empirical overview of the role played by information, communication, and media within the politics of the modern state. Students are introduced to canonical as well as marginal and emerging perspectives on media politics and asked to weigh them against the empirical record established by extant qualitative and quantitative scholarship.
+## Overview
 
-#### Summary of the syllabus
+This module provides a theoretical and empirical overview of the role played by information, communication, and media within the politics of the modern state. Students are introduced to canonical as well as marginal and emerging perspectives on media politics and asked to weigh them against the empirical record established by extant qualitative and quantitative scholarship. You'll quickly notice that the course materials are in a wide variety of media. All of the materials are digital and freely available to you through links within this document.
 
-Each week will be devoted to a theme where a diverse range of perspectives is presented. Typically, each week’s theme will expose the student to the main classic/canonical theoretical perspective(s), the main dissident/heterodox and typically more contemporary perspective(s), a qualitative empirical piece (case studies) providing evidentiary material and, where applicable, quantitative studies. The balance of these materials will be variable and depend on the nature of theme. 
+Each week will be devoted to a theme. Typically, each week’s materials have been curated to expose the student to the dominant theoretical perspective, a dissident or heterodox perspective, and something empirical (qualitative or quantitative) to help fix ideas. The balance of these materials will be variable and depend on the nature of theme.
 
-#### Summary of the teaching and learning strategies
+## Summary of teaching and learning strategies
 
 Focused, directed readings which students complete before each session will provide the core material around which each session is organized. Each session will include a lecture providing a general overview of the main points which will be followed by discussion questions in response to which students will exercise their command of the material. These teaching and learning methods will achieve the aims and learning outcomes of the module by providing a focused, consistent, and supportive environment where students engage with the material in multiple ways (through reading, audible/visual lectures, and through their own speaking). 
 
-### Aims and objectives
+## Aims and objectives
 
 - Students will gain an independent and critical command of the essential questions in media politics. They will learn to engage with historical texts, theoretical texts, contemporary academic research, as well as cutting-edge contemporary discussions of media politics on the internet. In other words, students will acquire the theoretical tools required of any global citizen who would seek to produce new knowledge in the state-of-the-art of media politics.
 
