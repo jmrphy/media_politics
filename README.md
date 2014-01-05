@@ -4,11 +4,25 @@ Politics of the Media
 [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
-- [What students will gaine from this module](#what-students-will-gain-from-this-module)     
+- [What students will gaine from this module](#what-students-will-gain-from-this-module)   
+
 [Schedule](#schedule)   
-[Part I: Historical context of media scholarship in the social sciences](#part-i-historical-context-of-media-scholarship-in-the-social sciences)   
+
+[Part I: Historical context of media scholarship in the social sciences](#part-i-historical-context-of-media-scholarship-in-the-social-sciences)   
 - [Week 1. The curiously sinister beginnings of mass media](#week-1-the-curiously-sinister-beginnings-of-the-mass-media)   
-- [Week 1. The curiously sinister beginnings of mass media](#week-1-the-curiously-sinister-beginnings-of-the-mass-media)   
+- [Week 2. Early social science of the media](#week-2-early-social-science-of-the-media)     
+- [Week 3. The rise of an institutionalized mainstream in the social science of the media](#week-3-the-rise-of-an-institutionalized mainstream-in-the-social-science-of-the-media)   
+
+[Part II: Mass media in the wealthy capitalist states](#part-ii-mass-media-in-the-wealthy-capitalist-states)   
+- [Week 4. Do the mass media enforce government transparency and accountability?](#week-4-do-the-mass-media-enforce-government-transparency-and-accountability)  
+- [Week 5. Or are the mass media propaganda machines?](#week-5-or-are-the-mass-media-propaganda-machines)   
+- [Week 6. The mass media are shaped by institutions](#week-6-the-mass-media-are-shaped-by-institutions)   
+
+[Part III. Mass media in poor and middle-income states](#part-iii-mass-media-in-poor-and-middle-income-states)   
+- [Week 7. Do the internet and social media lead to revolution against authoritarian regimes?](#week-7-do-the-internet-and-social-media-lead-to-revolution-against-authoritarian-regimes)   
+- [Week 8. Or do all media just make states stronger and more oppressive?](#week-8-or-do-all-media-just-make-states-stronger-and-more oppressive)
+
+
 
 
 ### Overview
@@ -84,9 +98,9 @@ Further readings (not required)
 - [Gitlin, Todd. 1978. “Media Sociology.” Theory and Society 6(2): 205–53.](https://github.com/jmrphy/course_media_politics/blob/master/Gitlin_Media_Sociology_1978.pdf?raw=true)
 
 
-#### Part 2: Mass media in the wealthy capitalist states
+#### Part II: Mass media in the wealthy capitalist states
 
-Week 4. The mass media are a watchdog of the government and enforce transparency and accountability
+Week 4. Do the mass media enforce government transparency and accountability?
 
 - [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://github.com/jmrphy/course_media_politics/blob/master/Brunetti_Weder_Press_Corruption_2003.pdf?raw=true)
 
@@ -96,12 +110,12 @@ Further readings (not required)
 
 [Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://github.com/jmrphy/course_media_politics/blob/master/Snyder_Stromberg_Press_Accountability_2008.pdf?raw=true)
 
-Week 5. The mass media are propaganda machines
+Week 5. Or are the mass media propaganda machines?
 
 [Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
 
 
-Week 6. The media are shaped by institutions
+Week 6. The mass media are shaped by institutions
 
 - [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://github.com/jmrphy/course_media_politics/blob/master/Bennett_Indexing_1990.pdf?raw=true)
 
@@ -109,13 +123,13 @@ Week 6. The media are shaped by institutions
 
 - [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
 
-#### Part 3. Mass media in poor and middle-income states
+#### Part III. Mass media in poor and middle-income states
 
-Week 7. The mass media help people overthrow their oppressors
+Week 7. Do the internet and social media lead to revolution against authoritarian regimes?
 
 - [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://github.com/jmrphy/course_media_politics/blob/master/Safranek_Social_Media_Regime_Change_2012.pdf?raw=true)
 
-Week 8. The mass media are used to oppress the people
+Week 8. Or do all media just make states stronger and more oppressive?
 
 [MacKinnon, Rebecca. 2011. “China's “Networked Authoritarianism”.” Journal of Democracy 22(2): 32–46.](https://github.com/jmrphy/course_media_politics/blob/master/MacKinnon_Networked_Authoritarianism_2011.pdf?raw=true)
 
