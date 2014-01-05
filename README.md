@@ -1,9 +1,9 @@
 Politics of the Media
 ========================
 
-[I. Overview](##overview)
-[II. Summary of teaching and learning strategies](##summary-of-teaching-and-learning-strategies)
-[III. Overview](##aims-and-objectives)
+[I. Overview](#overview)    
+[II. Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)    
+[III. Overview](#aims-and-objectives)    
 
 ## Overview
 
