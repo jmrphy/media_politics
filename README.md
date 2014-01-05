@@ -4,11 +4,11 @@ Politics of the Media
 [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
-- [What students will gaine from this module](#what-students-will-gain-from-this-module)   
-[Schedule](#schedule) 
-[Part I: Historical context of media scholarship in the social sciences](#part-I:-historical-context-of-media-scholarship-in-the-social sciences)   
-- [Week 1. The curiously sinister beginnings of mass media](#week-1.-the-curiously-sinister-beginnings-of-the-mass-media)   
-- [Week 1. The curiously sinister beginnings of mass media](#week-1.-the-curiously-sinister-beginnings-of-the-mass-media)
+- [What students will gaine from this module](#what-students-will-gain-from-this-module)     
+[Schedule](#schedule)   
+[Part I: Historical context of media scholarship in the social sciences](#part-i-historical-context-of-media-scholarship-in-the-social sciences)   
+- [Week 1. The curiously sinister beginnings of mass media](#week-1-the-curiously-sinister-beginnings-of-the-mass-media)   
+- [Week 1. The curiously sinister beginnings of mass media](#week-1-the-curiously-sinister-beginnings-of-the-mass-media)   
 
 
 ### Overview
