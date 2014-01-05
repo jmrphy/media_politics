@@ -41,47 +41,79 @@ Having successfully completed the module, students will:
 
 ##### Week 1. The curiously sinister beginnings of mass media in democratic states
 
-[Chomsky, Noam. 1991. *Media Control: The Spectacular Achievements of Propaganda*. New York: Seven Stories Press.](http://library.uniteddiversity.coop/Media_and_Free_Culture/Noam_Chomsky-Media_Control.pdf)
+- [Chomsky, Noam. 1991. *Media Control: The Spectacular Achievements of Propaganda*. New York: Seven Stories Press.](http://library.uniteddiversity.coop/Media_and_Free_Culture/Noam_Chomsky-Media_Control.pdf)
 
-[Bernays, Edward L. 1928/2004. *Propaganda*. Ig Publishing.](http://www.whale.to/b/bernays.pdf)
+- [Bernays, Edward L. 1928/2004. *Propaganda*. Ig Publishing.](http://www.whale.to/b/bernays.pdf)
 
-[Lippmann, Walter. 1922. *Public Opinion*. Harcourt, Brace and Company.](https://ia700605.us.archive.org/13/items/PublicOpinion/lippmann_walter_1889_1974_public_opinion.pdf)
+- [Lippmann, Walter. 1922. *Public Opinion*. Harcourt, Brace and Company.](https://ia700605.us.archive.org/13/items/PublicOpinion/lippmann_walter_1889_1974_public_opinion.pdf)
 
 ##### Week 2. Early social science of the media
 
-[McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](http://people.virginia.edu/~dat8a/nclc345/resources/McLuhan1964.pdf)
+- [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](http://people.virginia.edu/~dat8a/nclc345/resources/McLuhan1964.pdf)
 
-[Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf)
+- [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf)
 
-Additional readings:
+Further readings (not required):
 
-Deutsch, Karl W. 1966. *The Nerves of Government: Models of Political Communication and Control.*
+- [Ellul, Jacques. 1965. *Propaganda: The Formation of Men's Attitudes*. New York: Knopf.](http://monoskop.org/images/4/44/Ellul_Jacques_Propaganda_The_Formation_of_Mens_Attitudes.pdf)
 
-Deutsch, Karl W. 1953. *Nationalism and Social Communication: An Inquiry Into the Foundations of Nationality*. New York: Technology Press.
+- Deutsch, Karl W. 1966. *The Nerves of Government: Models of Political Communication and Control.*
 
-[Ellul, Jacques. 1965. *Propaganda: The Formation of Men's Attitudes*. New York: Knopf.](http://monoskop.org/images/4/44/Ellul_Jacques_Propaganda_The_Formation_of_Mens_Attitudes.pdf)
+- Deutsch, Karl W. 1953. *Nationalism and Social Communication: An Inquiry Into the Foundations of Nationality*. New York: Technology Press.
 
 Week 3. The rise of an institutionalized mainstream in the social science of the media
 
-columbia
-michigan
+- [Klapper, Joseph T. 1957. “What We Know About the Effects of Mass Communication: the Brink of Hope.” Public Opinion Quarterly 21(4): 453–74.](https://github.com/jmrphy/course_media_politics/blob/master/Klapper_Effects_1957.pdf?raw=true)
+
+- [Pooley, Jefferson. 2006. “Fifteen Pages That Shook the Field: Personal Influence, Edward Shils, and the Remembered History of Mass Communication Research.” The Annals of the American Academy of Political and Social Science 608(1): 130–56.](https://github.com/jmrphy/course_media_politics/blob/master/Pooley_Shook_The_Field_2006.pdf?raw=true)
+
+Further readings (not required)
+
+- [Katz, Elihu, and Paul F Lazarsfeld. 1955/2009. Personal Influence: The Part Played by People in the Flow of Mass Communications. Collier-Macmillan.](http://books.google.co.uk/books?id=rElW8D0D8gYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
+- [Campbell, Angus, Philip E Converse, Warren E Miller, and Donald E Stokes. 1960/1980. The American Voter. Chicago: University of Chicago Press.](http://books.google.co.uk/books?id=JeYUrs_GOcMC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.)
+
+- [Gitlin, Todd. 1978. “Media Sociology.” Theory and Society 6(2): 205–53.](https://github.com/jmrphy/course_media_politics/blob/master/Gitlin_Media_Sociology_1978.pdf?raw=true)
+
 
 #### Part 2: Mass media in the wealthy capitalist states
 
 Week 4. The mass media are a watchdog of the government and enforce transparency and accountability
-	- Quantitative piece on free media decreases corruption, increases good governance
+
+- [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://github.com/jmrphy/course_media_politics/blob/master/Brunetti_Weder_Press_Corruption_2003.pdf?raw=true)
+
+- [Feldstein, Mark. 2004. “Watergate Revisited.” *American Journalism Review*.](http://ajrarchive.org/article.asp?id=3735)
+
+Further readings (not required)
+
+[Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://github.com/jmrphy/course_media_politics/blob/master/Snyder_Stromberg_Press_Accountability_2008.pdf?raw=true)
 
 Week 5. The mass media are propaganda machines
-	-Chomsky and Herman
 
-Week 6. The media are neither good nor bad, but shaped by institutions
-	- Baum piece on how parliamentary systems have diff news coverage
+[Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
+
+
+Week 6. The media are shaped by institutions
+
+- [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://github.com/jmrphy/course_media_politics/blob/master/Bennett_Indexing_1990.pdf?raw=true)
+
+- [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
+
+- [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
 
 #### Part 3. Mass media in poor and middle-income states
 
-Week 7. The mass media are used to oppress the people.
+Week 7. The mass media help people overthrow their oppressors
 
-Week 8. The mass media help people overthrow their oppressors.
+- [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://github.com/jmrphy/course_media_politics/blob/master/Safranek_Social_Media_Regime_Change_2012.pdf?raw=true)
+
+Week 8. The mass media are used to oppress the people
+
+[MacKinnon, Rebecca. 2011. “China's “Networked Authoritarianism”.” Journal of Democracy 22(2): 32–46.](https://github.com/jmrphy/course_media_politics/blob/master/MacKinnon_Networked_Authoritarianism_2011.pdf?raw=true)
+
+[![Morozov video screenshot](https://dl.dropboxusercontent.com/u/20498362/Images/Morozov_video.png)](http://www.youtube.com/watch?v=Uk8x3V-sUgU&feature=share&list=PL30A3187AF935427D&index=1)
+
+
 
 #### Part 4: The media between domestic and international politics
 
@@ -100,7 +132,7 @@ The world wide web is celebrated for opening up information and communication, b
 
 All students must have a personal blog, a twitter account, a twitter client, and an RSS reader. Don't freak out: all of these things are free, easy to learn, and will make your life easier and more powerful after just a little bit of investment up front. The first two are becoming absolutely necessary for anyone who wishes to have a voice in the public sphere, and the second two are necessary if one wishes to actually increase one's information and knowledge in a powerful and effective way.
 
- If you don't have a blog and a twitter account, then you basically don't have an independent voice on the web, where vast amounts of information and communication and therefore politics takes place; if you don't have a voice, then you can only be a passive listener at best, which has nothing to do with politics. If you don't have a twitter client and an RSS reader, then you can't control your own media diet and you won't ride the wave of information but be drowned by it. The "information superhighway" does not automatically increasing one's information and knowledge flows; on the contrary, the standard, naive internet life of most people probably decreases and deforms daily flows of information and knowledge. (Google and Facebook are driven by algorithms which only give you what you already know and like, and which make sure that your voice is only shared with others who already know and like you, probably limiting and *perverting* more than enhancing one's flows of information and communication.) Ergo, because you are here to learn about the politics of the media, a blog, twitter account, twitter client, and RSS reader are implicit pre-requisite for even having a chance at learning something about the politics of the media today.
+ If you don't have a blog and a twitter account, then you basically don't have an independent voice on the web, where vast amounts of information and communication and therefore politics takes place; if you don't have a voice, then you can only be a passive listener at best, which has nothing to do with politics. If you don't have a twitter client and an RSS reader, then you can't control your own media diet and you won't be surfing the net so much as drowning in it. The "information superhighway" does not automatically increase one's information and knowledge flows; on the contrary, the standard, naive internet life of most people probably decreases and deforms daily flows of information and knowledge. (Google and Facebook are driven by algorithms which only give you what you already know and like, and which make sure that your voice is only shared with others who already know and like you, probably limiting and *perverting* more than enhancing one's flows of information and communication.) Ergo, because you are here to learn about the politics of the media, a blog, twitter account, twitter client, and RSS reader are implicit pre-requisite for even having a chance at learning something about the politics of the media today.
 
 **A blog**: Any blogging platform will do, including any blog you might already run. If you've never blogged and you're intimidated then I would recommend using Tumblr, which is very easy to use, stylish, and has a huge community of bloggers. Tumblr blogs tend toward shorter and quicker reads, photos, quotes, etc., and Tumblr in general encourages "reblogging" posts from other Tumblr blogs on your own. If you write more frequently or plan to blog more ambitiously in or after this course, you might want to select a platform that gives you more options and control over your content. Wordpress is perhaps the most popular and powerful platform, although it can be a little confusing and the free version puts ads on your posts. Typepad and Blogger are both perfectly good and commonly used competitors. You might also explore newer blogging platforms which seem to emphasize superior style and community engagement, such as Medium and Svbte. Really up to you.
 
