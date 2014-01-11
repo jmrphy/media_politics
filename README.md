@@ -11,19 +11,18 @@ Politics of the Media
 [Part I: Historical context of media scholarship in the social sciences](#part-i-historical-context-of-media-scholarship-in-the-social-sciences)   
 - [Week 1. The curiously sinister beginnings of mass media](#week-1-the-curiously-sinister-beginnings-of-the-mass-media)   
 - [Week 2. Early social science of the media](#week-2-early-social-science-of-the-media)     
-- [Week 3. The rise of an institutionalized mainstream in the social science of the media](#week-3-the-rise-of-an-institutionalized mainstream-in-the-social-science-of-the-media)   
+- [Week 3. The rise of an institutionalized mainstream in the social science of the media](#week-3-the-rise-of-an-institutionalized mainstream-in-the-social-science-of-the-media)
+
+[Week 4. Practicum](#week-4-practicum-on-media-politics)
 
 [Part II: Mass media in the wealthy capitalist states](#part-ii-mass-media-in-the-wealthy-capitalist-states)   
-- [Week 4. Do the mass media enforce government transparency and accountability?](#week-4-do-the-mass-media-enforce-government-transparency-and-accountability)  
-- [Week 5. Or are the mass media propaganda machines?](#week-5-or-are-the-mass-media-propaganda-machines)   
-- [Week 6. The mass media are shaped by institutions](#week-6-the-mass-media-are-shaped-by-institutions)   
+- [Week 5. Do the mass media enforce government transparency and accountability?](#week-5-do-the-mass-media-enforce-government-transparency-and-accountability)  
+- [Week 6. Or are the mass media propaganda machines?](#week-6-or-are-the-mass-media-propaganda-machines)   
+- [Week 7. The mass media are shaped by institutions](#week-7-the-mass-media-are-shaped-by-institutions)   
 
 [Part III. Mass media in poor and middle-income states](#part-iii-mass-media-in-poor-and-middle-income-states)   
-- [Week 7. Do the internet and social media lead to revolution against authoritarian regimes?](#week-7-do-the-internet-and-social-media-lead-to-revolution-against-authoritarian-regimes)   
-- [Week 8. Or do all media just make states stronger and more oppressive?](#week-8-or-do-all-media-just-make-states-stronger-and-more oppressive)
-
-
-
+- [Week 8. Do the internet and social media lead to revolution against authoritarian regimes?](#week-8-do-the-internet-and-social-media-lead-to-revolution-against-authoritarian-regimes)   
+- [Week 9. Or do all media just make states stronger and more oppressive?](#week-9-or-do-all-media-just-make-states-stronger-and-more oppressive)
 
 ### Overview
 
@@ -83,7 +82,7 @@ Further readings (not required):
 
 - Deutsch, Karl W. 1953. *Nationalism and Social Communication: An Inquiry Into the Foundations of Nationality*. New York: Technology Press.
 
-Week 3. The rise of an institutionalized mainstream in the social science of the media
+##### Week 3. The rise of an institutionalized mainstream in the social science of the media
 
 - [Klapper, Joseph T. 1957. “What We Know About the Effects of Mass Communication: the Brink of Hope.” Public Opinion Quarterly 21(4): 453–74.](https://github.com/jmrphy/course_media_politics/blob/master/Klapper_Effects_1957.pdf?raw=true)
 
@@ -97,58 +96,7 @@ Further readings (not required)
 
 - [Gitlin, Todd. 1978. “Media Sociology.” Theory and Society 6(2): 205–53.](https://github.com/jmrphy/course_media_politics/blob/master/Gitlin_Media_Sociology_1978.pdf?raw=true)
 
-
-#### Part II: Mass media in the wealthy capitalist states
-
-Week 4. Do the mass media enforce government transparency and accountability?
-
-- [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://github.com/jmrphy/course_media_politics/blob/master/Brunetti_Weder_Press_Corruption_2003.pdf?raw=true)
-
-- [Feldstein, Mark. 2004. “Watergate Revisited.” *American Journalism Review*.](http://ajrarchive.org/article.asp?id=3735)
-
-Further readings (not required)
-
-[Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://github.com/jmrphy/course_media_politics/blob/master/Snyder_Stromberg_Press_Accountability_2008.pdf?raw=true)
-
-Week 5. Or are the mass media propaganda machines?
-
-[Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
-
-
-Week 6. The mass media are shaped by institutions
-
-- [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://github.com/jmrphy/course_media_politics/blob/master/Bennett_Indexing_1990.pdf?raw=true)
-
-- [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
-
-- [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
-
-#### Part III. Mass media in poor and middle-income states
-
-Week 7. Do the internet and social media lead to revolution against authoritarian regimes?
-
-- [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://github.com/jmrphy/course_media_politics/blob/master/Safranek_Social_Media_Regime_Change_2012.pdf?raw=true)
-
-Week 8. Or do all media just make states stronger and more oppressive?
-
-[MacKinnon, Rebecca. 2011. “China's “Networked Authoritarianism”.” Journal of Democracy 22(2): 32–46.](https://github.com/jmrphy/course_media_politics/blob/master/MacKinnon_Networked_Authoritarianism_2011.pdf?raw=true)
-
-[![Morozov video screenshot](https://dl.dropboxusercontent.com/u/20498362/Images/Morozov_video.png)](http://www.youtube.com/watch?v=Uk8x3V-sUgU&feature=share&list=PL30A3187AF935427D&index=1)
-
-
-
-#### Part 4: The media between domestic and international politics
-
-Week 9. The domestic media shapes international outcomes
-
-Week 10. The domestic media shapes domestic outcomes of international politics
-
-Week 11. The internationalization of media
-
-
-
-
-Practical component: Becoming political media actors
+##### Week 4. Practicum on media politics
 
 The world wide web is celebrated for opening up information and communication, but as we will learn, informational and communicative power on the web is only enjoyed by those who have the resources required to use it. Thus, part of this course is about imparting to you the resources and tools required to even access what is uniquely interesting (and hopefully empowering for you) in the contemporary politics of the media.
 
@@ -163,6 +111,55 @@ All students must have a personal blog, a twitter account, a twitter client, and
 **A twitter client**. A twitter "client" is just a third-party application for managing and reading twitter feeds. I recommend Tweetdeck, but there are a few other popular ones such as Tweetbot and Hootsuite.
 
 **An RSS reader**. "RSS" stands for "Rich Site Summary" or "Really Simple Syndication", and it's just a simple protocol that turns websites into feeds so that readers can subscribe and recieve updates from all of their favorite websites all in one place. That one place is an RSS reader, which is basically just a big self-designed newspaper composed of all the websites you want to follow.
+
+#### Part II: Mass media in the wealthy capitalist states
+
+Week 5. Do the mass media enforce government transparency and accountability?
+
+- [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://github.com/jmrphy/course_media_politics/blob/master/Brunetti_Weder_Press_Corruption_2003.pdf?raw=true)
+
+- [Feldstein, Mark. 2004. “Watergate Revisited.” *American Journalism Review*.](http://ajrarchive.org/article.asp?id=3735)
+
+Further readings (not required)
+
+[Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://github.com/jmrphy/course_media_politics/blob/master/Snyder_Stromberg_Press_Accountability_2008.pdf?raw=true)
+
+Week 6. Or are the mass media propaganda machines?
+
+[Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
+
+
+Week 7. The mass media are shaped by institutions
+
+- [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://github.com/jmrphy/course_media_politics/blob/master/Bennett_Indexing_1990.pdf?raw=true)
+
+- [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
+
+- [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
+
+#### Part III. Mass media in poor and middle-income states
+
+Week 8. Do the internet and social media lead to revolution against authoritarian regimes?
+
+- [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://github.com/jmrphy/course_media_politics/blob/master/Safranek_Social_Media_Regime_Change_2012.pdf?raw=true)
+
+Week 9. Or do all media just make states stronger and more oppressive?
+
+[MacKinnon, Rebecca. 2011. “China's “Networked Authoritarianism”.” Journal of Democracy 22(2): 32–46.](https://github.com/jmrphy/course_media_politics/blob/master/MacKinnon_Networked_Authoritarianism_2011.pdf?raw=true)
+
+[![Morozov video screenshot](https://dl.dropboxusercontent.com/u/20498362/Images/Morozov_video.png)](http://www.youtube.com/watch?v=Uk8x3V-sUgU&feature=share&list=PL30A3187AF935427D&index=1)
+
+
+
+#### Part 4: The international politics of the media
+
+Week 10. The domestic media shapes international outcomes
+
+Week 11. The domestic media shapes domestic outcomes of international politics
+
+Week 12. The internationalization of media
+
+
 
 
 
