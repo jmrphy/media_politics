@@ -74,7 +74,7 @@ Having successfully completed the module, students will:
 - [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf)
 
 *The Medium is the Message*, lecture by Marshall Mcluhan, 1979, 14 min.
-[![Mcluhan screenshot](http://grab.by/tBni)](http://www.youtube.com/watch?v=ImaH51F4HBw)
+[![Mcluhan screenshot](http://tardis1.tinygrab.com/grabs/3db0911c715ddff78a0c3ed917ee4fb0d088fea555.png)](http://www.youtube.com/watch?v=ImaH51F4HBw)
 
 Further readings (not required):
 
@@ -138,16 +138,16 @@ Week 8. Are the mass media shaped by economic institutions?
 Week 9. How do the mass media represent different groups?
 
 "Willie Horton" ad, George H.W. Bush, 1988, 30 sec.
-[![Willie Horton ad screenshot](http://grab.by/tBnm)](http://www.youtube.com/watch?v=Io9KMSSEZ0Y)
+[![Willie Horton ad screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7154335c185b5f95bd0e251178abadba25.png)](http://www.youtube.com/watch?v=Io9KMSSEZ0Y)
 
 "White Hands" ad, Jesse Helms, 1990, 30 sec.
-[![White Hands ad screenshot](http://grab.by/tBnq)](http://www.youtube.com/watch?v=KIyewCdXMzk)
+[![White Hands ad screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7180731fc63976099c7b1d3bf0ca8162f6.png)](http://www.youtube.com/watch?v=KIyewCdXMzk)
 
 *Racism on TV in Great Britain* with Stuart Hall, 1984, 60 min.
 [![Racism on TV screenshot](http://c714091.r91.cf2.rackcdn.com/3db0911c71989e25d2a644b8b8c9b855250736500b.png)](http://www.youtube.com/watch?v=JsqTXylw-Uo)
 
 "From Feminism to Patriarchy" in *Cultural Criticism and Transformation*, with bell hooks, Media Education Foundation, 1997, 6 min.
-[![Racism on TV screenshot](http://grab.by/tBnK)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
+[![Racism on TV screenshot](http://tardis1.tinygrab.com/grabs/3db0911c719566a28be045201993d64e00e148ec48.png)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
 
 
 [Media Coverage of the 2011 London Riots, a multimedia collection](http://storify.com/jmrphy/coverage-of-the-2011-london-riots)
@@ -172,7 +172,7 @@ Week 9. Or do all media just make states stronger and more oppressive?
 
 [MacKinnon, Rebecca. 2011. “China's “Networked Authoritarianism”.” Journal of Democracy 22(2): 32–46.](https://github.com/jmrphy/course_media_politics/blob/master/MacKinnon_Networked_Authoritarianism_2011.pdf?raw=true)
 
-[![Morozov video screenshot](http://grab.by/tBoi)](http://www.youtube.com/watch?v=Uk8x3V-sUgU&feature=share&list=PL30A3187AF935427D&index=1)
+[![Morozov video screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7137eede70581fd815bb497f6c0cb9120b.png)](http://www.youtube.com/watch?v=Uk8x3V-sUgU&feature=share&list=PL30A3187AF935427D&index=1)
 
 
 
