@@ -1,7 +1,7 @@
 [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
-- [What students will gaine from this module](#what-students-will-gain-from-this-module)   
+- [What students will gain from this module](#what-students-will-gain-from-this-module)   
 
 [Schedule](#schedule)   
 
@@ -15,11 +15,13 @@
 [Part II: Mass media in the wealthy capitalist states](#part-ii-mass-media-in-the-wealthy-capitalist-states)   
 - [Week 5. Do the mass media enforce government transparency and accountability?](#week-5-do-the-mass-media-enforce-government-transparency-and-accountability)  
 - [Week 6. Or are the mass media propaganda machines?](#week-6-or-are-the-mass-media-propaganda-machines)   
-- [Week 7. The mass media are shaped by institutions](#week-7-the-mass-media-are-shaped-by-institutions)   
+- [Week 7. Are the mass media shaped by political institutions?](#week-7-are-the-mass-media-shaped-by-political-institutions)   
+- [Week 8. Are the mass media shaped by economic institutions?](#week-8-are-the-mass-media-shaped-by-economic-institutions)  
+- [Week 9. How do the mass media represent different groups?](#week-9-how-do-the-mass-media-represent-different-groups)
 
 [Part III. Mass media in poor and middle-income states](#part-iii-mass-media-in-poor-and-middle-income-states)   
-- [Week 8. Do the internet and social media lead to revolution against authoritarian regimes?](#week-8-do-the-internet-and-social-media-lead-to-revolution-against-authoritarian-regimes)   
-- [Week 9. Or do all media just make states stronger and more oppressive?](#week-9-or-do-all-media-just-make-states-stronger-and-more oppressive)
+- [Week 10. Do the internet and social media lead to revolution against authoritarian regimes?](#week-10-do-the-internet-and-social-media-lead-to-revolution-against-authoritarian-regimes)   
+- [Week 11. Or do all media just make states stronger and more oppressive?](#week-11-or-do-all-media-just-make-states-stronger-and-more oppressive)
 
 ### Overview
 
@@ -43,7 +45,7 @@ Focused, directed readings which students complete before each session will prov
 
 Having successfully completed the module, students will:
 
-- Have a critical, developed, independent perspective on the role of media in the politics across contemporary states.
+- Have a considered, critical, independent perspective on the role of media in the politics across contemporary states.
 
 - Be able to speak, write, and disseminate online their independent perspectives on the main questions and issues in the politics of media.
 
@@ -71,6 +73,9 @@ Having successfully completed the module, students will:
 
 - [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf)
 
+*The Medium is the Message*, lecture by Marshall Mcluhan, 1979, 14 min.
+[![Mcluhan screenshot](https://www.dropbox.com/s/iy1vbbct2wd4d5t/Screenshot%202014-01-16%2014.42.26.png)](http://www.youtube.com/watch?v=ImaH51F4HBw)
+
 Further readings (not required):
 
 - [Ellul, Jacques. 1965. *Propaganda: The Formation of Men's Attitudes*. New York: Knopf.](http://monoskop.org/images/4/44/Ellul_Jacques_Propaganda_The_Formation_of_Mens_Attitudes.pdf)
@@ -95,19 +100,10 @@ Further readings (not required)
 
 ##### Week 4. Practicum on media politics
 
-The world wide web is celebrated for opening up information and communication, but as we will learn, informational and communicative power on the web is only enjoyed by those who have the resources required to use it. Thus, part of this course is about imparting to you the resources and tools required to even access what is uniquely interesting (and hopefully empowering for you) in the contemporary politics of the media.
+- [*You're not surfing the net, you're drowning in it! A university practicum for the internet life*, January 2014, Justin Murphy.](practicum_for_the_internet.md)
 
-All students must have a personal blog, a twitter account, a twitter client, and an RSS reader. Don't freak out: all of these things are free, easy to learn, and will make your life easier and more powerful after just a little bit of investment up front. The first two are becoming absolutely necessary for anyone who wishes to have a voice in the public sphere, and the second two are necessary if one wishes to actually increase one's information and knowledge in a powerful and effective way.
+[*A Conversation with the Man Who Tweets Revolutions*. February 1, 2013. Andy Carvin and Brooke Gladstone, On The Media podcast.](http://www.onthemedia.org/story/266599-conversation-man-who-tweets-revolutions/?utm_source=local&utm_media=treatment&utm_campaign=daMost&utm_content=damostviewed)
 
- If you don't have a blog and a twitter account, then you basically don't have an independent voice on the web, where vast amounts of information and communication and therefore politics takes place; if you don't have a voice, then you can only be a passive listener at best, which has nothing to do with politics. If you don't have a twitter client and an RSS reader, then you can't control your own media diet and you won't be surfing the net so much as drowning in it. The "information superhighway" does not automatically increase one's information and knowledge flows; on the contrary, the standard, naive internet life of most people probably decreases and deforms daily flows of information and knowledge. (Google and Facebook are driven by algorithms which only give you what you already know and like, and which make sure that your voice is only shared with others who already know and like you, probably limiting and *perverting* more than enhancing one's flows of information and communication.) Ergo, because you are here to learn about the politics of the media, a blog, twitter account, twitter client, and RSS reader are implicit pre-requisite for even having a chance at learning something about the politics of the media today.
-
-**A blog**: Any blogging platform will do, including any blog you might already run. If you've never blogged and you're intimidated then I would recommend using Tumblr, which is very easy to use, stylish, and has a huge community of bloggers. Tumblr blogs tend toward shorter and quicker reads, photos, quotes, etc., and Tumblr in general encourages "reblogging" posts from other Tumblr blogs on your own. If you write more frequently or plan to blog more ambitiously in or after this course, you might want to select a platform that gives you more options and control over your content. Wordpress is perhaps the most popular and powerful platform, although it can be a little confusing and the free version puts ads on your posts. Typepad and Blogger are both perfectly good and commonly used competitors. You might also explore newer blogging platforms which seem to emphasize superior style and community engagement, such as Medium and Svbte. Really up to you.
-
-**A twitter account**. Pretty straightforward. Sign up at twitter.com.
-
-**A twitter client**. A twitter "client" is just a third-party application for managing and reading twitter feeds. I recommend Tweetdeck, but there are a few other popular ones such as Tweetbot and Hootsuite.
-
-**An RSS reader**. "RSS" stands for "Rich Site Summary" or "Really Simple Syndication", and it's just a simple protocol that turns websites into feeds so that readers can subscribe and recieve updates from all of their favorite websites all in one place. That one place is an RSS reader, which is basically just a big self-designed newspaper composed of all the websites you want to follow.
 
 #### Part II: Mass media in the wealthy capitalist states
 
@@ -121,24 +117,58 @@ Further readings (not required)
 
 [Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://github.com/jmrphy/course_media_politics/blob/master/Snyder_Stromberg_Press_Accountability_2008.pdf?raw=true)
 
-Week 6. Or are the mass media propaganda machines?
+Week 6. Are the mass media propaganda machines?
 
 [Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
 
-
-Week 7. The mass media are shaped by institutions
+Week 7. Are the mass media shaped by political institutions?
 
 - [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://github.com/jmrphy/course_media_politics/blob/master/Bennett_Indexing_1990.pdf?raw=true)
 
+- [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
+
+[*And I'm Not Going to Take it Anymore*, Andrea Seabrook interviewed by Bob Garfield, On The Media podcast. August 24, 2012.](http://www.onthemedia.org/story/232582-and-im-not-going-take-it-anymore/)
+
+[*Frustration in the White House Press Corps*, December 13, 2013. Bob Garfield, On The Media podcast.](http://www.onthemedia.org/story/frustration-white-house-press-corps/)
+
+Week 8. Are the mass media shaped by economic institutions?
+
 - [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
 
-- [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
+Week 9. How do the mass media represent different groups?
+
+"Willie Horton" ad, George H.W. Bush, 1988, 30 sec.
+[![Willie Horton ad screenshot](https://www.dropbox.com/s/5z2sbh765tfe333/Screenshot%202014-01-16%2014.37.32.png)](http://www.youtube.com/watch?v=Io9KMSSEZ0Y)
+
+"White Hands" ad, Jesse Helms, 1990, 30 sec.
+[![White Hands ad screenshot](https://www.dropbox.com/s/2bxd8eng33t3kh4/Screenshot%202014-01-16%2014.25.28.png)](http://www.youtube.com/watch?v=KIyewCdXMzk)
+
+*Racism on TV in Great Britain* with Stuart Hall, 1984, 60 min.
+[![Racism on TV screenshot](http://i.imgur.com/6qmPLxb.png)](http://www.youtube.com/watch?v=JsqTXylw-Uo)
+
+*From Feminism to Patriarchy*, with bell hooks, Media Education Foundation, 1997, 6 min.
+[![Racism on TV screenshot](https://www.dropbox.com/s/ce9omf5wicoi45q/Screenshot%202014-01-16%2014.56.26.png)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
+
+*From Feminism to Patriarchy*, with bell hooks, Media Education Foundation, 1997, 6 min.
+[![Racism on TV screenshot](https://www.dropbox.com/s/ce9omf5wicoi45q/Screenshot%202014-01-16%2014.56.26.png)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
+
+[Media Coverage of the 2011 London Riots](http://storify.com/jmrphy/coverage-of-the-2011-london-riots)
+
+Additional reading:
+
+[Full transcript of the video *Cultural Criticism and Transformation* featuring bell hooks, Media Education Foundation, 1997](http://www.mediaed.org/assets/products/402/transcript_402.pdf)
+
+["Jesse Helms, John McCain and the Mark of the White Hands", John Nichols, *The Nation*, 2008](http://www.thenation.com/blog/jesse-helms-john-mccain-and-mark-white-hands)
+
+
 
 #### Part III. Mass media in poor and middle-income states
 
-Week 8. Do the internet and social media lead to revolution against authoritarian regimes?
+Week 10. Do the internet and social media lead to revolution against authoritarian regimes?
 
 - [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://github.com/jmrphy/course_media_politics/blob/master/Safranek_Social_Media_Regime_Change_2012.pdf?raw=true)
+
+- [Tunisia's Twitter Revolution, Marc Lynch interviewed by Brooke Gladstone, On The Media Podcast, January 21, 2011.](http://www.onthemedia.org/story/133051-tunisias-twitter-revolution/)
 
 Week 9. Or do all media just make states stronger and more oppressive?
 
@@ -167,7 +197,7 @@ Kern, H L, and J Hainmueller. 2009. “Opium for the Masses: How Foreign Media C
 Media, Economic Well-Being, and Opinion
 http://www.jasonbarabas.com/images/Barabas_Ch36_OxfordHandbook_Economic.pdf
 
-Prior. How Increasing Media Choice Widens Gaps in Political Knowledge and Turnout. http://www.princeton.edu/~mprior/Prior2005.News%20v%20Entertainment.AJPS.pdf
+Prior. How Increasing Media Choice Widens Gaps in Political Knowledge and Turnout. (http://www.princeton.edu/~mprior/Prior2005.News%20v%20Entertainment.AJPS.pdf)
 
 Prior. Review of Media Choice and Polarization. http://www.princeton.edu/~mprior/Prior%20MediaPolarization.pdf
 
