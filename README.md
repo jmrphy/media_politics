@@ -74,7 +74,7 @@ Having successfully completed the module, students will:
 - [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf)
 
 *The Medium is the Message*, lecture by Marshall Mcluhan, 1979, 14 min.
-[![Mcluhan screenshot](https://www.dropbox.com/s/iy1vbbct2wd4d5t/Screenshot%202014-01-16%2014.42.26.png)](http://www.youtube.com/watch?v=ImaH51F4HBw)
+[![Mcluhan screenshot](http://grab.by/tBni)](http://www.youtube.com/watch?v=ImaH51F4HBw)
 
 Further readings (not required):
 
@@ -138,21 +138,19 @@ Week 8. Are the mass media shaped by economic institutions?
 Week 9. How do the mass media represent different groups?
 
 "Willie Horton" ad, George H.W. Bush, 1988, 30 sec.
-[![Willie Horton ad screenshot](https://www.dropbox.com/s/5z2sbh765tfe333/Screenshot%202014-01-16%2014.37.32.png)](http://www.youtube.com/watch?v=Io9KMSSEZ0Y)
+[![Willie Horton ad screenshot](http://grab.by/tBnm)](http://www.youtube.com/watch?v=Io9KMSSEZ0Y)
 
 "White Hands" ad, Jesse Helms, 1990, 30 sec.
-[![White Hands ad screenshot](https://www.dropbox.com/s/2bxd8eng33t3kh4/Screenshot%202014-01-16%2014.25.28.png)](http://www.youtube.com/watch?v=KIyewCdXMzk)
+[![White Hands ad screenshot](http://grab.by/tBnq)](http://www.youtube.com/watch?v=KIyewCdXMzk)
 
 *Racism on TV in Great Britain* with Stuart Hall, 1984, 60 min.
-[![Racism on TV screenshot](http://i.imgur.com/6qmPLxb.png)](http://www.youtube.com/watch?v=JsqTXylw-Uo)
+[![Racism on TV screenshot](http://grab.by/tBnA)](http://www.youtube.com/watch?v=JsqTXylw-Uo)
 
-*From Feminism to Patriarchy*, with bell hooks, Media Education Foundation, 1997, 6 min.
-[![Racism on TV screenshot](https://www.dropbox.com/s/ce9omf5wicoi45q/Screenshot%202014-01-16%2014.56.26.png)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
+"From Feminism to Patriarchy" in *Cultural Criticism and Transformation*, with bell hooks, Media Education Foundation, 1997, 6 min.
+[![Racism on TV screenshot](http://grab.by/tBnK)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
 
-*From Feminism to Patriarchy*, with bell hooks, Media Education Foundation, 1997, 6 min.
-[![Racism on TV screenshot](https://www.dropbox.com/s/ce9omf5wicoi45q/Screenshot%202014-01-16%2014.56.26.png)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
 
-[Media Coverage of the 2011 London Riots](http://storify.com/jmrphy/coverage-of-the-2011-london-riots)
+[Media Coverage of the 2011 London Riots, a multimedia collection](http://storify.com/jmrphy/coverage-of-the-2011-london-riots)
 
 Additional reading:
 
@@ -174,7 +172,7 @@ Week 9. Or do all media just make states stronger and more oppressive?
 
 [MacKinnon, Rebecca. 2011. “China's “Networked Authoritarianism”.” Journal of Democracy 22(2): 32–46.](https://github.com/jmrphy/course_media_politics/blob/master/MacKinnon_Networked_Authoritarianism_2011.pdf?raw=true)
 
-[![Morozov video screenshot](https://dl.dropboxusercontent.com/u/20498362/Images/Morozov_video.png)](http://www.youtube.com/watch?v=Uk8x3V-sUgU&feature=share&list=PL30A3187AF935427D&index=1)
+[![Morozov video screenshot](http://grab.by/tBoi)](http://www.youtube.com/watch?v=Uk8x3V-sUgU&feature=share&list=PL30A3187AF935427D&index=1)
 
 
 
