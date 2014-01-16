@@ -144,7 +144,7 @@ Week 9. How do the mass media represent different groups?
 [![White Hands ad screenshot](http://grab.by/tBnq)](http://www.youtube.com/watch?v=KIyewCdXMzk)
 
 *Racism on TV in Great Britain* with Stuart Hall, 1984, 60 min.
-[![Racism on TV screenshot](http://grab.by/tBnA)](http://www.youtube.com/watch?v=JsqTXylw-Uo)
+[![Racism on TV screenshot](http://c714091.r91.cf2.rackcdn.com/3db0911c71989e25d2a644b8b8c9b855250736500b.png)](http://www.youtube.com/watch?v=JsqTXylw-Uo)
 
 "From Feminism to Patriarchy" in *Cultural Criticism and Transformation*, with bell hooks, Media Education Foundation, 1997, 6 min.
 [![Racism on TV screenshot](http://grab.by/tBnK)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
