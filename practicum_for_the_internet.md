@@ -1,4 +1,4 @@
-### You're not surfing the net, you're drowning in it! A practicum for young intellectuals in the internet era
+*You're not surfing the net, you're drowning in it! A practicum for young intellectuals in the internet era*
 
 The world wide web is celebrated for opening up information and communication, but as we will learn, informational and communicative power on the web is only enjoyed by those who have the resources required to use it. Thus, part of this course is about imparting to you the resources and tools required to even access what is uniquely interesting (and hopefully empowering for you) in the contemporary politics of the media.
 
