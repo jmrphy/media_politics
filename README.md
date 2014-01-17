@@ -76,7 +76,7 @@ Having successfully completed the module, students will:
 *The Medium is the Message*, lecture by Marshall Mcluhan, 1979, 14 min.
 [![Mcluhan screenshot](http://tardis1.tinygrab.com/grabs/3db0911c715ddff78a0c3ed917ee4fb0d088fea555.png)](http://www.youtube.com/watch?v=ImaH51F4HBw)
 
-Further readings (not required):
+*Further readings (not required):*
 
 - [Ellul, Jacques. 1965. *Propaganda: The Formation of Men's Attitudes*. New York: Knopf.](http://monoskop.org/images/4/44/Ellul_Jacques_Propaganda_The_Formation_of_Mens_Attitudes.pdf)
 
