@@ -74,7 +74,7 @@ Having successfully completed the module, students will:
 - [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf)
 
 *The Medium is the Message*, lecture by Marshall Mcluhan, 1979, 14 min.
-[![Mcluhan screenshot](http://tardis1.tinygrab.com/grabs/3db0911c715ddff78a0c3ed917ee4fb0d088fea555.png)](http://www.youtube.com/watch?v=ImaH51F4HBw)
+[![Mcluhan screenshot](images/Mcluhan.png)](http://www.youtube.com/watch?v=ImaH51F4HBw)
 
 Further readings (not required):
 
