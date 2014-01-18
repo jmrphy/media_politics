@@ -164,6 +164,13 @@ Additional reading:
 
 Week 10. Do the internet and social media lead to revolution against authoritarian regimes?
 
+*Statement of Subcomandante Marcos to the NYC Freeing the Media Teach-In*, Subcomandante Marcos of the EZLN, 1997, 9:25 min.
+[![Marcos screenshot](http://tardis1.tinygrab.com/grabs/3db0911c716ea7a36a82f47f339f19f79a5de0a598.png)](http://www.youtube.com/watch?v=s8nAey4OZJg)
+
+"Digital Zapatismo" featuring Electronic Disturbance Theatre, from *The Hacktivists*, 1997, 9:25 min.
+[![Dominguez et al screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7108677d33ab630a1c89b5ef3a16321308.png)](http://www.youtube.com/watch?v=O-U-he8LN3k)
+
+
 - [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://github.com/jmrphy/course_media_politics/blob/master/Safranek_Social_Media_Regime_Change_2012.pdf?raw=true)
 
 - [Tunisia's Twitter Revolution, Marc Lynch interviewed by Brooke Gladstone, On The Media Podcast, January 21, 2011.](http://www.onthemedia.org/story/133051-tunisias-twitter-revolution/)
