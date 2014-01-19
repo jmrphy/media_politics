@@ -1,3 +1,7 @@
+"The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society." - Edward Bernays, 1928
+
+"...we called for the creation of a network of independent media, a network of information. We mean a network to resist the power of the lie that sells us this war that we call the Fourth World War. We need this network not only as a tool for our social movements, but for our lives: this is a project of life, of humanity, humanity which has a right to critical and truthful information." - Subcomandante Marcos of the Zapatista Army of National Liberation, 1997
+
 [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
@@ -115,25 +119,46 @@ Week 5. Do the mass media enforce government transparency and accountability?
 
 Further readings (not required)
 
+- [Slantchev, Branislvav L. 2006. “Politicians, the Media, and Domestic Audience Costs.” *International Studies Quarterly* 50(2): 445–77.](http://escholarship.org/uc/item/58c3h5zg)
+
+[CHOI, SEUNG-WHAN, and Patrick James. 2006. “Media Openness, Democracy and Militarized Interstate Disputes.” British Journal of Political Science 37(01): 23.](http://dornsife.usc.edu/assets/sites/429/docs/Media_Openness_Democracy_and_Militarized_Interstate_Disputes.pdf)
+
 [Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://github.com/jmrphy/course_media_politics/blob/master/Snyder_Stromberg_Press_Accountability_2008.pdf?raw=true)
 
 Week 6. Are the mass media propaganda machines?
 
-[Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
+- [Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
+
+- [Kern, H L, and J Hainmueller. 2009. “Opium for the Masses: How Foreign Media Can Stabilize Authoritarian Regimes.” *Political Analysis* 17(4): 377–99.](http://www.stanford.edu/~jhain/Paper/OVM2009.pdf)
+
+- [Barabas, Jason. 2011. “Public Opinion, the Media, and Economic Well-Being.” In *The Oxford Handbook of American Public Opinion and the Media.* Shapiro, Robert Y, and Lawrence R Jacobs, eds. Oxford.]
+(http://www.jasonbarabas.com/images/Barabas_Ch36_OxfordHandbook_Economic.pdf)
 
 Week 7. Are the mass media shaped by political institutions?
 
 - [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://github.com/jmrphy/course_media_politics/blob/master/Bennett_Indexing_1990.pdf?raw=true)
 
+- [Baek, Mijeong. 2009. “A Comparative Analysis of Political Communication Systems and Voter Turnout.” *American Journal of Political Science*: 1–19.](http://jpmarin27.pbworks.com/f/more%20comm.pdf)
+
 - [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
 
-[*And I'm Not Going to Take it Anymore*, Andrea Seabrook interviewed by Bob Garfield, On The Media podcast. August 24, 2012.](http://www.onthemedia.org/story/232582-and-im-not-going-take-it-anymore/)
+- [*And I'm Not Going to Take it Anymore*, Andrea Seabrook interviewed by Bob Garfield, On The Media podcast. August 24, 2012.](http://www.onthemedia.org/story/232582-and-im-not-going-take-it-anymore/)
 
-[*Frustration in the White House Press Corps*, December 13, 2013. Bob Garfield, On The Media podcast.](http://www.onthemedia.org/story/frustration-white-house-press-corps/)
+- [*Frustration in the White House Press Corps*, December 13, 2013. Bob Garfield, On The Media podcast.](http://www.onthemedia.org/story/frustration-white-house-press-corps/)
 
 Week 8. Are the mass media shaped by economic institutions?
 
 - [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
+
+- [Prior, Markus. 2005. “News vs. Entertainment: How Increasing Media Choice Widens Gaps in Political Knowledge and Turnout.” *American Journal of Political Science* 49(3): 577–92.](http://www.princeton.edu/~mprior/Prior2005.News%20v%20Entertainment.AJPS.pdf)
+
+- [Aalberg, Toril, Peter van Aelst, and James Curran. 2010. “Media Systems and the Political Information Environment: a Cross-National Comparison.” International Journal of Politics, Culture, and Society 15(3): 255–71.](http://webh01.ua.ac.be/m2p/publications/1300823971.pdf)
+
+[Eisensee, Thomas, and David Strömberg. 2007. “News Droughts, News Floods, and U.S. Disaster Relief.” The Quarterly Journal of Economics: 1–36.](http://people.su.se/~dstro/Disasters.pdf)
+
+Additional readings:
+
+[Prior, M. 2013. “Media and Political Polarization.” Annual Review of Political Science.](http://www.princeton.edu/~mprior/Prior%20MediaPolarization.pdf)
 
 Week 9. How do the mass media represent different groups?
 
@@ -160,7 +185,6 @@ Additional reading:
 ["Jesse Helms, John McCain and the Mark of the White Hands", John Nichols, *The Nation*, 2008](http://www.thenation.com/blog/jesse-helms-john-mccain-and-mark-white-hands)
 
 
-
 #### Part III. Mass media in poor and middle-income states
 
 Week 10. Do the internet and social media lead to revolution against authoritarian regimes?
@@ -183,42 +207,4 @@ Week 9. Or do all media just make states stronger and more oppressive?
 
 [![Morozov video screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7137eede70581fd815bb497f6c0cb9120b.png)](http://www.youtube.com/watch?v=Uk8x3V-sUgU&feature=share&list=PL30A3187AF935427D&index=1)
 
-
-
-#### Part 4: The international politics of the media
-
-Week 10. The domestic media shapes international outcomes
-
-Week 11. The domestic media shapes domestic outcomes of international politics
-
-Week 12. The internationalization of media
-
-
-
-
-
-
-
-Kern, H L, and J Hainmueller. 2009. “Opium for the Masses: How Foreign Media Can Stabilize Authoritarian Regimes.” Political Analysis 17(4): 377–99.
-
-Media, Economic Well-Being, and Opinion
-http://www.jasonbarabas.com/images/Barabas_Ch36_OxfordHandbook_Economic.pdf
-
-Prior. How Increasing Media Choice Widens Gaps in Political Knowledge and Turnout. (http://www.princeton.edu/~mprior/Prior2005.News%20v%20Entertainment.AJPS.pdf)
-
-Prior. Review of Media Choice and Polarization. http://www.princeton.edu/~mprior/Prior%20MediaPolarization.pdf
-
-
-
-Baek, Mijeong. 2009. “A Comparative Analysis of Political Communication Systems and Voter Turnout.” *American Journal of Political Science*: 1–19.
-
-Slantchev, Branislvav L. 2006. “Politicians, the Media, and Domestic Audience Costs.” : 1–34.
-
-CHOI, SEUNG-WHAN, and Patrick James. 2006. “Media Openness, Democracy and Militarized Interstate Disputes.” British Journal of Political Science 37(01): 23.
-
-Aalberg, Toril, Peter van Aelst, and James Curran. 2010. “Media Systems and the Political Information Environment: a Cross-National Comparison.” International Journal of Politics, Culture, and Society 15(3): 255–71.
-
-Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.
-
-Eisensee, Thomas, and David Strömberg. 2007. “News Droughts, News Floods, and U.S. Disaster Relief.” The Quarterly Journal of Economics: 1–36.
 
