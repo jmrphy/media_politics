@@ -1,5 +1,3 @@
-Test
-
 [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
@@ -149,6 +147,7 @@ Week 9. How do the mass media represent different groups?
 [![Racism on TV screenshot](http://c714091.r91.cf2.rackcdn.com/3db0911c71989e25d2a644b8b8c9b855250736500b.png)](http://www.youtube.com/watch?v=JsqTXylw-Uo)
 
 "From Feminism to Patriarchy" in *Cultural Criticism and Transformation*, with bell hooks, Media Education Foundation, 1997, 6 min.
+
 [![Racism on TV screenshot](http://tardis1.tinygrab.com/grabs/3db0911c719566a28be045201993d64e00e148ec48.png)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
 
 
@@ -167,6 +166,7 @@ Additional reading:
 Week 10. Do the internet and social media lead to revolution against authoritarian regimes?
 
 *Statement of Subcomandante Marcos to the NYC Freeing the Media Teach-In*, Subcomandante Marcos of the EZLN, 1997, 9:25 min.
+
 [![Marcos screenshot](http://tardis1.tinygrab.com/grabs/3db0911c716ea7a36a82f47f339f19f79a5de0a598.png)](http://www.youtube.com/watch?v=s8nAey4OZJg)
 
 "Digital Zapatismo" featuring Electronic Disturbance Theatre, from *The Hacktivists*, 1997, 9:25 min.
