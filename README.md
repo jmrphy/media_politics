@@ -18,9 +18,12 @@
 
 ### Overview
 
-> "The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society." - Edward Bernays, 1928
+> "The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society."
+- Edward Bernays, 1928
 
-> "...we called for the creation of a network of independent media, a network of information. We mean a network to resist the power of the lie that sells us this war that we call the Fourth World War. We need this network not only as a tool for our social movements, but for our lives: this is a project of life, of humanity, humanity which has a right to critical and truthful information." - Subcomandante Marcos of the Zapatista Army of National Liberation, 1997
+
+> "...we called for the creation of a network of independent media, a network of information. We mean a network to resist the power of the lie that sells us this war that we call the Fourth World War. We need this network not only as a tool for our social movements, but for our lives: this is a project of life, of humanity, humanity which has a right to critical and truthful information."
+- Subcomandante Marcos of the Zapatista Army of National Liberation, 1997
 
 This module provides a theoretical and empirical overview of the role played by information, communication, and media within the politics of the modern state. Students are introduced to canonical as well as marginal and emerging perspectives on media politics and asked to weigh them against the empirical record established by extant qualitative and quantitative scholarship. You'll quickly notice that the course materials are in a wide variety of media. All of the materials are digital and freely available to you through links within this document.
 
