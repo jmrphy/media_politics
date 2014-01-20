@@ -1,33 +1,26 @@
-"The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society." - Edward Bernays, 1928
-
-"...we called for the creation of a network of independent media, a network of information. We mean a network to resist the power of the lie that sells us this war that we call the Fourth World War. We need this network not only as a tool for our social movements, but for our lives: this is a project of life, of humanity, humanity which has a right to critical and truthful information." - Subcomandante Marcos of the Zapatista Army of National Liberation, 1997
-
 [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
 - [What students will gain from this module](#what-students-will-gain-from-this-module)   
 
 [Schedule](#schedule)   
-
-[Part I: Historical context of media scholarship in the social sciences](#part-i-historical-context-of-media-scholarship-in-the-social-sciences)   
 - [Week 1. The curiously sinister beginnings of mass media](#week-1-the-curiously-sinister-beginnings-of-the-mass-media)   
 - [Week 2. Early social science of the media](#week-2-early-social-science-of-the-media)     
 - [Week 3. The rise of an institutionalized mainstream in the social science of the media](#week-3-the-rise-of-an-institutionalized mainstream-in-the-social-science-of-the-media)
-
-[Week 4. Practicum](#week-4-practicum-on-media-politics)
-
-[Part II: Mass media in the wealthy capitalist states](#part-ii-mass-media-in-the-wealthy-capitalist-states)   
+- [Week 4. Practicum](#week-4-practicum-on-media-politics)
 - [Week 5. Do the mass media enforce government transparency and accountability?](#week-5-do-the-mass-media-enforce-government-transparency-and-accountability)  
 - [Week 6. Or are the mass media propaganda machines?](#week-6-or-are-the-mass-media-propaganda-machines)   
 - [Week 7. Are the mass media shaped by political institutions?](#week-7-are-the-mass-media-shaped-by-political-institutions)   
 - [Week 8. Are the mass media shaped by economic institutions?](#week-8-are-the-mass-media-shaped-by-economic-institutions)  
 - [Week 9. How do the mass media represent different groups?](#week-9-how-do-the-mass-media-represent-different-groups)
-
-[Part III. Mass media in poor and middle-income states](#part-iii-mass-media-in-poor-and-middle-income-states)   
 - [Week 10. Do the internet and social media lead to revolution against authoritarian regimes?](#week-10-do-the-internet-and-social-media-lead-to-revolution-against-authoritarian-regimes)   
 - [Week 11. Or do all media just make states stronger and more oppressive?](#week-11-or-do-all-media-just-make-states-stronger-and-more oppressive)
 
 ### Overview
+
+> "The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society." - Edward Bernays, 1928
+
+> "...we called for the creation of a network of independent media, a network of information. We mean a network to resist the power of the lie that sells us this war that we call the Fourth World War. We need this network not only as a tool for our social movements, but for our lives: this is a project of life, of humanity, humanity which has a right to critical and truthful information." - Subcomandante Marcos of the Zapatista Army of National Liberation, 1997
 
 This module provides a theoretical and empirical overview of the role played by information, communication, and media within the politics of the modern state. Students are introduced to canonical as well as marginal and emerging perspectives on media politics and asked to weigh them against the empirical record established by extant qualitative and quantitative scholarship. You'll quickly notice that the course materials are in a wide variety of media. All of the materials are digital and freely available to you through links within this document.
 
@@ -108,10 +101,7 @@ Further readings (not required)
 
 [*A Conversation with the Man Who Tweets Revolutions*. February 1, 2013. Andy Carvin and Brooke Gladstone, On The Media podcast.](http://www.onthemedia.org/story/266599-conversation-man-who-tweets-revolutions/?utm_source=local&utm_media=treatment&utm_campaign=daMost&utm_content=damostviewed)
 
-
-#### Part II: Mass media in the wealthy capitalist states
-
-Week 5. Do the mass media enforce government transparency and accountability?
+##### Week 5. Do the mass media enforce government transparency and accountability?
 
 - [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://github.com/jmrphy/course_media_politics/blob/master/Brunetti_Weder_Press_Corruption_2003.pdf?raw=true)
 
@@ -125,7 +115,7 @@ Further readings (not required)
 
 [Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://github.com/jmrphy/course_media_politics/blob/master/Snyder_Stromberg_Press_Accountability_2008.pdf?raw=true)
 
-Week 6. Are the mass media propaganda machines?
+##### Week 6. Are the mass media propaganda machines?
 
 - [Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
 
@@ -134,7 +124,7 @@ Week 6. Are the mass media propaganda machines?
 - [Barabas, Jason. 2011. “Public Opinion, the Media, and Economic Well-Being.” In *The Oxford Handbook of American Public Opinion and the Media.* Shapiro, Robert Y, and Lawrence R Jacobs, eds. Oxford.]
 (http://www.jasonbarabas.com/images/Barabas_Ch36_OxfordHandbook_Economic.pdf)
 
-Week 7. Are the mass media shaped by political institutions?
+##### Week 7. Are the mass media shaped by political institutions?
 
 - [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://github.com/jmrphy/course_media_politics/blob/master/Bennett_Indexing_1990.pdf?raw=true)
 
@@ -146,7 +136,7 @@ Week 7. Are the mass media shaped by political institutions?
 
 - [*Frustration in the White House Press Corps*, December 13, 2013. Bob Garfield, On The Media podcast.](http://www.onthemedia.org/story/frustration-white-house-press-corps/)
 
-Week 8. Are the mass media shaped by economic institutions?
+##### Week 8. Are the mass media shaped by economic institutions?
 
 - [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
 
@@ -160,7 +150,7 @@ Additional readings:
 
 [Prior, M. 2013. “Media and Political Polarization.” Annual Review of Political Science.](http://www.princeton.edu/~mprior/Prior%20MediaPolarization.pdf)
 
-Week 9. How do the mass media represent different groups?
+##### Week 9. How do the mass media represent different groups?
 
 "Willie Horton" ad, George H.W. Bush, 1988, 30 sec.
 [![Willie Horton ad screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7154335c185b5f95bd0e251178abadba25.png)](http://www.youtube.com/watch?v=Io9KMSSEZ0Y)
@@ -184,10 +174,7 @@ Additional reading:
 
 ["Jesse Helms, John McCain and the Mark of the White Hands", John Nichols, *The Nation*, 2008](http://www.thenation.com/blog/jesse-helms-john-mccain-and-mark-white-hands)
 
-
-#### Part III. Mass media in poor and middle-income states
-
-Week 10. Do the internet and social media lead to revolution against authoritarian regimes?
+##### Week 10. Do the internet and social media lead to revolution against authoritarian regimes?
 
 *Statement of Subcomandante Marcos to the NYC Freeing the Media Teach-In*, Subcomandante Marcos of the EZLN, 1997, 9:25 min.
 
@@ -201,7 +188,7 @@ Week 10. Do the internet and social media lead to revolution against authoritari
 
 - [Tunisia's Twitter Revolution, Marc Lynch interviewed by Brooke Gladstone, On The Media Podcast, January 21, 2011.](http://www.onthemedia.org/story/133051-tunisias-twitter-revolution/)
 
-Week 9. Or do all media just make states stronger and more oppressive?
+##### Week 11. Or do all media just make states stronger and more oppressive?
 
 [MacKinnon, Rebecca. 2011. “China's “Networked Authoritarianism”.” Journal of Democracy 22(2): 32–46.](https://github.com/jmrphy/course_media_politics/blob/master/MacKinnon_Networked_Authoritarianism_2011.pdf?raw=true)
 
