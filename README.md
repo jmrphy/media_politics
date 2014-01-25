@@ -2,6 +2,7 @@
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
 - [What students will gain from this module](#what-students-will-gain-from-this-module)   
+- [Assessment](#assessment)
 
 [Schedule](#schedule)   
 - [Week 1. The curiously sinister beginnings of mass media](#week-1-the-curiously-sinister-beginnings-of-the-mass-media)   
@@ -51,6 +52,11 @@ Having successfully completed the module, students will:
 
 - Have a more reflexive awareness of how the politics of media shape their own perceptions and behaviors.
 
+#### Assessment
+
+Students will submit a mid-term essay (minimum of 1500 words) worth 30% of the course grade. Students will also submit an end-of-term essay (minimum of 3000 words) worth 60% of the course grade. A unique and very cool (if I might say so myself) [internet-based political communications practicum](https://github.com/jmrphy/internet_practicum/blob/master/README.md), used throughout the semester, will be worth 10% of the course grade.
+
+Students should note they are permitted to use their 1,500-word essay in the 3,000 word essay, but with the expectation that they will significantly revise and improve the first 1,500 words based on the feedback they receive. Additionally, students can also use blog posts they write throughout the semester for the practicum in their 3,000 word essay. However, the final 3,000 word essay will be a proper piece of research judged seriously with respect to all aspects of good academic writing, so students should not think they can merely copy and paste their writings from throughout the semester into a 3,000-word hodge-podge!
 
 ### Schedule
 =====================================
