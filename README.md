@@ -24,7 +24,7 @@
 
 > "...we called for the creation of a network of independent media, a network of information. We mean a network to resist the power of the lie that sells us this war that we call the Fourth World War. We need this network not only as a tool for our social movements, but for our lives: this is a project of life, of humanity, humanity which has a right to critical and truthful information." - Subcomandante Marcos of the Zapatista Army of National Liberation, 1997
 
-This module provides a theoretical and empirical overview of the role played by information, communication, and media within the politics of the modern state. Students are introduced to canonical as well as marginal and emerging perspectives on media politics and asked to weigh them against the empirical record established by extant qualitative and quantitative scholarship. You'll quickly notice that the course materials are in a wide variety of media. All of the materials are digital and freely available to you through links within this document.
+This course provides a theoretical and empirical overview of the role played by information, communication, and media within the politics of the modern state. Students are introduced to canonical as well as marginal and emerging perspectives on media politics and asked to weigh them against the historical record. Course materials are in a wide variety of media. All of the materials are digital and freely available through links on the course website.
 
 Each week will be devoted to a theme. Typically, each week’s materials have been curated to expose the student to the dominant theoretical perspective, a dissident or heterodox perspective, and something empirical (qualitative or quantitative) to help fix ideas. The balance of these materials will be variable and depend on the nature of theme.
 
@@ -63,11 +63,11 @@ Students should note they are permitted to use their 1,500-word essay in the 3,0
 
 ##### Week 1. The curiously sinister beginnings of the mass media
 
-- [Chomsky, Noam. 1991. *Media Control: The Spectacular Achievements of Propaganda*. New York: Seven Stories Press.](http://library.uniteddiversity.coop/Media_and_Free_Culture/Noam_Chomsky-Media_Control.pdf)
+- [Chomsky, Noam. 1991. *Media Control: The Spectacular Achievements of Propaganda*. New York: Seven Stories Press.](http://library.uniteddiversity.coop/Media_and_Free_Culture/Noam_Chomsky-Media_Control.pdf) Pages 1-30 of the PDF.
 
-- [Bernays, Edward L. 1928/2004. *Propaganda*. Ig Publishing.](http://www.whale.to/b/bernays.pdf)
+- [Bernays, Edward L. 1928/2004. *Propaganda*. Ig Publishing.](http://www.whale.to/b/bernays.pdf) Pages 1-40 of the PDF.
 
-- [Lippmann, Walter. 1922. *Public Opinion*. Harcourt, Brace and Company.](https://ia700605.us.archive.org/13/items/PublicOpinion/lippmann_walter_1889_1974_public_opinion.pdf)
+- [Lippmann, Walter. 1922. *Public Opinion*. Harcourt, Brace and Company.](https://ia700605.us.archive.org/13/items/PublicOpinion/lippmann_walter_1889_1974_public_opinion.pdf) Pages 1-26 of the PDF.
 
 ##### Week 2. Early social science of the media
 
@@ -102,7 +102,7 @@ Further readings (not required)
 
 ##### Week 4. Practicum on media politics
 
-- [*You're not surfing the net, you're drowning in it! A university practicum for the internet life*, January 2014, Justin Murphy.](practicum_for_the_internet.md)
+- [*You're not surfing the net, you're drowning in it! A university practicum for the internet life*, January 2014, Justin Murphy.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
 
 [*A Conversation with the Man Who Tweets Revolutions*. February 1, 2013. Andy Carvin and Brooke Gladstone, On The Media podcast.](http://www.onthemedia.org/story/266599-conversation-man-who-tweets-revolutions/?utm_source=local&utm_media=treatment&utm_campaign=daMost&utm_content=damostviewed)
 
