@@ -1,14 +1,14 @@
-Politics of the Media (PAIR2023 & PAIR3032)
-Lecturer: Justin Murphy
-Email: j.murphy@soton.ac.uk
-Website: [http://jmrphy.net](http://jmrphy.net)
-Twitter: [@jmrphy](http://twitter.com/jmrphy)
-Office: Building 58, Room 3049
-Lecture: Monday 3pm - 5pm
-Tutorial: Tuesday 12pm - 1pm
-Contact and feedback hours:
-Monday 11am - 1pm
-Thursday 10am - 12pm
+Politics of the Media (PAIR2023 & PAIR3032)   
+Lecturer: Justin Murphy   
+Email: j.murphy@soton.ac.uk   
+Website: [http://jmrphy.net](http://jmrphy.net)   
+Twitter: [@jmrphy](http://twitter.com/jmrphy)   
+Office: Building 58, Room 3049   
+Lecture: Monday 3pm - 5pm   
+Tutorial: Tuesday 12pm - 1pm   
+Contact and feedback hours:   
+Monday 11am - 1pm   
+Thursday 10am - 12pm   
 
 [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
