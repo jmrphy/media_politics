@@ -1,16 +1,4 @@
-Politics of the Media (PAIR2023 & PAIR3032)   
-**Lecturer:** Justin Murphy   
-**Email:** j.murphy@soton.ac.uk   
-**Website:** [http://jmrphy.net](http://jmrphy.net)   
-**Twitter:** [@jmrphy](http://twitter.com/jmrphy)   
-**Office:** Building 58, Room 3049   
-**Lecture:** Monday 3pm - 5pm   
-**Tutorial:** Tuesday 12pm - 1pm   
-**Contact and feedback hours:**   
-Monday 11am - 1pm   
-Thursday 10am - 12pm   
-
-[Overview](#overview)    
+  [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
 - [What students will gain from this module](#what-students-will-gain-from-this-module)   
@@ -31,6 +19,18 @@ Thursday 10am - 12pm
 
 ### Overview
 
+**Politics of the Media (PAIR2023 & PAIR3032)**   
+**Lecturer:** Justin Murphy   
+**Email:** j.murphy@soton.ac.uk   
+**Website:** [http://jmrphy.net](http://jmrphy.net)   
+**Twitter:** [@jmrphy](http://twitter.com/jmrphy)   
+**Office:** Building 58, Room 3049   
+**Lecture:** Monday 3pm - 5pm   
+**Tutorial:** Tuesday 12pm - 1pm   
+**Contact and feedback hours:**   
+Monday 11am - 1pm   
+Thursday 10am - 12pm 
+
 > "The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society." - Edward Bernays, 1928
 
 
@@ -39,6 +39,7 @@ Thursday 10am - 12pm
 This course provides a theoretical and empirical overview of the role played by information, communication, and media within the politics of the modern state. Students are introduced to canonical as well as marginal and emerging perspectives on media politics and asked to weigh them against the historical record. Course materials are in a wide variety of media. All of the materials are digital and freely available through links on the course website.
 
 Each week will be devoted to a theme. Typically, each week’s materials have been curated to expose the student to the dominant theoretical perspective, a dissident or heterodox perspective, and something empirical (qualitative or quantitative) to help fix ideas. The balance of these materials will be variable and depend on the nature of theme.
+
 
 #### Summary of teaching and learning strategies
 
