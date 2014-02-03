@@ -1,14 +1,26 @@
+Politics of the Media (PAIR2023 & PAIR3032)
+Lecturer: Justin Murphy
+Email: j.murphy@soton.ac.uk
+Website: [http://jmrphy.net](http://jmrphy.net)
+Twitter: [@jmrphy](http://twitter.com/jmrphy)
+Office: Building 58, Room 3049
+Lecture: Monday 3pm - 5pm
+Tutorial: Tuesday 12pm - 1pm
+Contact and feedback hours:
+Monday 11am - 1pm
+Thursday 10am - 12pm
+
 [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
 - [What students will gain from this module](#what-students-will-gain-from-this-module)   
 - [Assessment](#assessment)
 
-[Schedule](#schedule)   
-- [Week 1. The curiously sinister beginnings of mass media](#week-1-the-curiously-sinister-beginnings-of-the-mass-media)   
-- [Week 2. Early social science of the media](#week-2-early-social-science-of-the-media)     
-- [Week 3. The rise of an institutionalized mainstream in the social science of the media](#week-3-the-rise-of-an-institutionalized-mainstream-in-the-social-science-of-the-media)
-- [Week 4. Practicum](#week-4-practicum-on-media-politics)
+[Schedule](#schedule) 
+- [Week 1. Practicum](#week-1-internet-practicum)
+- [Week 2. The curiously sinister beginnings of mass media](#week-2-the-curiously-sinister-beginnings-of-the-mass-media)   
+- [Week 3. Early social science of the media](#week-3-early-social-science-of-the-media)     
+- [Week 4. The rise of an institutionalized mainstream in the social science of the media](#week-4-the-rise-of-an-institutionalized-mainstream-in-the-social-science-of-the-media)
 - [Week 5. Do the mass media enforce government transparency and accountability?](#week-5-do-the-mass-media-enforce-government-transparency-and-accountability)  
 - [Week 6. Or are the mass media propaganda machines?](#week-6-or-are-the-mass-media-propaganda-machines)   
 - [Week 7. Are the mass media shaped by political institutions?](#week-7-are-the-mass-media-shaped-by-political-institutions)   
@@ -61,7 +73,13 @@ Students should note they are permitted to use their 1,500-word essay in the 3,0
 ### Schedule
 =====================================
 
-##### Week 1. The curiously sinister beginnings of the mass media
+##### Week 1. Internet practicum
+
+- [*You're not surfing the net, you're drowning in it! A university practicum for the internet life*, January 2014, Justin Murphy.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
+
+[*A Conversation with the Man Who Tweets Revolutions*. February 1, 2013. Andy Carvin and Brooke Gladstone, On The Media podcast.](http://www.onthemedia.org/story/266599-conversation-man-who-tweets-revolutions/?utm_source=local&utm_media=treatment&utm_campaign=daMost&utm_content=damostviewed)
+
+##### Week 2. The curiously sinister beginnings of the mass media
 
 - [Chomsky, Noam. 1991. *Media Control: The Spectacular Achievements of Propaganda*. New York: Seven Stories Press.](http://library.uniteddiversity.coop/Media_and_Free_Culture/Noam_Chomsky-Media_Control.pdf) Pages 1-30 of the PDF.
 
@@ -69,7 +87,7 @@ Students should note they are permitted to use their 1,500-word essay in the 3,0
 
 - [Lippmann, Walter. 1922. *Public Opinion*. Harcourt, Brace and Company.](https://ia700605.us.archive.org/13/items/PublicOpinion/lippmann_walter_1889_1974_public_opinion.pdf) Pages 1-26 of the PDF.
 
-##### Week 2. Early social science of the media
+##### Week 3. Early social science of the media
 
 - [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](http://people.virginia.edu/~dat8a/nclc345/resources/McLuhan1964.pdf)
 
@@ -86,7 +104,7 @@ Students should note they are permitted to use their 1,500-word essay in the 3,0
 
 - Deutsch, Karl W. 1953. *Nationalism and Social Communication: An Inquiry Into the Foundations of Nationality*. New York: Technology Press.
 
-##### Week 3. The rise of an institutionalized mainstream in the social science of the media
+##### Week 4. The rise of an institutionalized mainstream in the social science of the media
 
 - [Klapper, Joseph T. 1957. “What We Know About the Effects of Mass Communication: the Brink of Hope.” Public Opinion Quarterly 21(4): 453–74.](https://github.com/jmrphy/course_media_politics/blob/master/Klapper_Effects_1957.pdf?raw=true)
 
@@ -99,12 +117,6 @@ Further readings (not required)
 - [Campbell, Angus, Philip E Converse, Warren E Miller, and Donald E Stokes. 1960/1980. The American Voter. Chicago: University of Chicago Press.](http://books.google.co.uk/books?id=JeYUrs_GOcMC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.)
 
 - [Gitlin, Todd. 1978. “Media Sociology.” Theory and Society 6(2): 205–53.](https://github.com/jmrphy/course_media_politics/blob/master/Gitlin_Media_Sociology_1978.pdf?raw=true)
-
-##### Week 4. Practicum on media politics
-
-- [*You're not surfing the net, you're drowning in it! A university practicum for the internet life*, January 2014, Justin Murphy.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
-
-[*A Conversation with the Man Who Tweets Revolutions*. February 1, 2013. Andy Carvin and Brooke Gladstone, On The Media podcast.](http://www.onthemedia.org/story/266599-conversation-man-who-tweets-revolutions/?utm_source=local&utm_media=treatment&utm_campaign=daMost&utm_content=damostviewed)
 
 ##### Week 5. Do the mass media enforce government transparency and accountability?
 
