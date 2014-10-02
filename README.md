@@ -3,19 +3,21 @@
 - [Aims and objectives](#aims-and-objectives)   
 - [What students will gain from this module](#what-students-will-gain-from-this-module)   
 - [Assessment](#assessment)
+- [Re-sits](#re-sits)
 
-[Schedule](#schedule) 
-- [Week 1. Practicum](#week-1-internet-practicum)
-- [Week 2. The curiously sinister beginnings of mass media](#week-2-the-curiously-sinister-beginnings-of-the-mass-media)   
-- [Week 3. Early social science of the media](#week-3-early-social-science-of-the-media)     
-- [Week 4. The rise of an institutionalized mainstream in the social science of the media](#week-4-the-rise-of-an-institutionalized-mainstream-in-the-social-science-of-the-media)
-- [Week 5. Do the mass media enforce government transparency and accountability?](#week-5-do-the-mass-media-enforce-government-transparency-and-accountability)  
-- [Week 6. Or are the mass media propaganda machines?](#week-6-or-are-the-mass-media-propaganda-machines)   
-- [Week 7. Are the mass media shaped by political institutions?](#week-7-are-the-mass-media-shaped-by-political-institutions)   
-- [Week 8. Are the mass media shaped by economic institutions?](#week-8-are-the-mass-media-shaped-by-economic-institutions)  
-- [Week 9. How do the mass media represent different groups?](#week-9-how-do-the-mass-media-represent-different-groups)
-- [Week 10. Do the internet and social media lead to revolution against authoritarian regimes?](#week-10-do-the-internet-and-social-media-lead-to-revolution-against-authoritarian-regimes)   
-- [Week 11. Or do all media just make states stronger and more oppressive?](#week-11-or-do-all-media-just-make-states-stronger-and-more-oppressive)
+[Schedule](#schedule)
+- [Week 1. Introduction](#week-1-introduction)
+- [Week 2. Practicum](#week-2-internet-practicum)
+- [Week 3. The beginnings of mass media](#week-3-the-beginnings-of-the-mass-media)   
+- [Week 4. Early social science of the media](#week-4-early-social-science-of-the-media)     
+- [Week 5. The rise of an institutionalized mainstream in the social science of the media](#week-5-the-rise-of-an-institutionalized-mainstream-in-the-social-science-of-the-media)
+- [Week 6. Do the mass media enforce government transparency and accountability?](#week-6-do-the-mass-media-enforce-government-transparency-and-accountability)  
+- [Week 7. Or are the mass media propaganda machines?](#week-7-or-are-the-mass-media-propaganda-machines)   
+- [Week 8. Are the mass media shaped by political institutions?](#week-8-are-the-mass-media-shaped-by-political-institutions)   
+- [Week 9. Are the mass media shaped by economic institutions?](#week-9-are-the-mass-media-shaped-by-economic-institutions)  
+- [Week 10. How do the mass media represent different groups?](#week-10-how-do-the-mass-media-represent-different-groups)
+- [Week 11. Do the internet and social media lead to revolution against authoritarian regimes?](#week-11-do-the-internet-and-social-media-lead-to-revolution-against-authoritarian-regimes)   
+- [Week 12. Or do all media just make states stronger and more oppressive?](#week-12-or-do-all-media-just-make-states-stronger-and-more-oppressive)
 
 ### Overview
 
@@ -24,12 +26,12 @@
 **Email:** j.murphy@soton.ac.uk   
 **Website:** [http://jmrphy.net](http://jmrphy.net)   
 **Twitter:** [@jmrphy](http://twitter.com/jmrphy)   
-**Office:** Building 58, Room 3049   
-**Lecture:** Monday 3pm - 5pm   
-**Tutorial:** Tuesday 12pm - 1pm   
+**Office:** Building 58, Room 3083   
+**Lecture:** Thursday 10am - 12pm   
+**Tutorial:** Thursday 5pm - 6pm   
 **Contact and feedback hours:**   
-Monday 11am - 1pm   
-Thursday 10am - 12pm 
+Monday 2pm - 4pm   
+Friday 2pm - 4pm 
 
 > "The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society." - Edward Bernays, 1928
 
@@ -71,16 +73,20 @@ Students will submit a mid-term essay (minimum of 1500 words) worth 30% of the c
 
 Students should note they are permitted to use their 1,500-word essay in the 3,000 word essay, but with the expectation that they will significantly revise and improve the first 1,500 words based on the feedback they receive. Additionally, students can also use blog posts they write throughout the semester for the practicum in their 3,000 word essay. However, the final 3,000 word essay will be a proper piece of research judged seriously with respect to all aspects of good academic writing, so students should not think they can merely copy and paste their writings from throughout the semester into a 3,000-word hodge-podge! This feature of the assessment is to show how consistent thinking and writing and blogging throughout a semester can and should make serious research easier; it does not make lazy research any harder to detect, and neither does it make lazy research better.
 
+#### Re-sits
+
+"The student will re-write both essays following the same instructions as found on the [module handbook](http://jmrphy.net/course_media_politics/#assessment) but the word counts will be a maximum of 2000 words for the first essay and 2500 words for the second essay, and with two additional exceptions. As stated in the module handbook, the student is free to design their own essay questions so long as it pertains to the course material and the answer uses material and knowledge gained through the module. However, whereas the handbook states students may pursue the same question in both assessments to improve their first effort, students re-sitting this module must ask and answer different questions for each essay given that they will be doing them at the same time.  Also, if a student re-sitting prefers to have a question prompts, [the convenor](mailto:j.murphy@soton.ac.uk) will gladly provide one optional prompt per question to any students re-sitting the module.
+
 ### Schedule
 =====================================
 
-##### Week 1. Internet practicum
+##### Week 2. Internet practicum
 
 - [*You're not surfing the net, you're drowning in it! A university practicum for the internet life*, January 2014, Justin Murphy.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
 
 [*A Conversation with the Man Who Tweets Revolutions*. February 1, 2013. Andy Carvin and Brooke Gladstone, On The Media podcast.](http://www.onthemedia.org/story/266599-conversation-man-who-tweets-revolutions/?utm_source=local&utm_media=treatment&utm_campaign=daMost&utm_content=damostviewed)
 
-##### Week 2. The curiously sinister beginnings of the mass media
+##### Week 3. The beginnings of the mass media
 
 - [Chomsky, Noam. 1991. *Media Control: The Spectacular Achievements of Propaganda*. New York: Seven Stories Press.](http://library.uniteddiversity.coop/Media_and_Free_Culture/Noam_Chomsky-Media_Control.pdf) Pages 1-30 of the PDF.
 
@@ -88,7 +94,7 @@ Students should note they are permitted to use their 1,500-word essay in the 3,0
 
 - [Lippmann, Walter. 1922. *Public Opinion*. Harcourt, Brace and Company.](https://ia700605.us.archive.org/13/items/PublicOpinion/lippmann_walter_1889_1974_public_opinion.pdf) Pages 1-26 of the PDF.
 
-##### Week 3. Early social science of the media
+##### Week 4. Early social science of the media
 
 - [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](http://people.virginia.edu/~dat8a/nclc345/resources/McLuhan1964.pdf)
 
@@ -105,9 +111,11 @@ Students should note they are permitted to use their 1,500-word essay in the 3,0
 
 - Deutsch, Karl W. 1953. *Nationalism and Social Communication: An Inquiry Into the Foundations of Nationality*. New York: Technology Press.
 
-##### Week 4. The rise of an institutionalized mainstream in the social science of the media
+##### Week 5. The rise of an institutionalized mainstream in the social science of the media
 
 - [Klapper, Joseph T. 1957. “What We Know About the Effects of Mass Communication: the Brink of Hope.” Public Opinion Quarterly 21(4): 453–74.](https://github.com/jmrphy/course_media_politics/blob/master/Klapper_Effects_1957.pdf?raw=true)
+
+- [Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambridge University Press.](https://www.dropbox.com/s/2de7k50gg40n22c/Zaller_Mass_Opinion_1992.pdf?dl=0)
 
 - [Pooley, Jefferson. 2006. “Fifteen Pages That Shook the Field: Personal Influence, Edward Shils, and the Remembered History of Mass Communication Research.” The Annals of the American Academy of Political and Social Science 608(1): 130–56.](https://github.com/jmrphy/course_media_politics/blob/master/Pooley_Shook_The_Field_2006.pdf?raw=true)
 
@@ -117,9 +125,11 @@ Further readings (not required)
 
 - [Campbell, Angus, Philip E Converse, Warren E Miller, and Donald E Stokes. 1960/1980. The American Voter. Chicago: University of Chicago Press.](http://books.google.co.uk/books?id=JeYUrs_GOcMC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.)
 
+- [Converse, Philip E. 1964. “The Nature of Belief Systems in Mass Publics.” In Ideology and Its Discontents, ed. David E Apter. New York: The New Press of Glencoe.](https://www.dropbox.com/s/il32uh0u1idj9jg/Converse_Belief_Systems.pdf?dl=0)
+
 - [Gitlin, Todd. 1978. “Media Sociology.” Theory and Society 6(2): 205–53.](https://github.com/jmrphy/course_media_politics/blob/master/Gitlin_Media_Sociology_1978.pdf?raw=true)
 
-##### Week 5. Do the mass media enforce government transparency and accountability?
+##### Week 6. Do the mass media enforce government transparency and accountability?
 
 - [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://github.com/jmrphy/course_media_politics/blob/master/Brunetti_Weder_Press_Corruption_2003.pdf?raw=true)
 
@@ -133,7 +143,7 @@ Further readings (not required)
 
 [Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://github.com/jmrphy/course_media_politics/blob/master/Snyder_Stromberg_Press_Accountability_2008.pdf?raw=true)
 
-##### Week 6. Or are the mass media propaganda machines?
+##### Week 7. Or are the mass media propaganda machines?
 
 - [Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
 
@@ -142,7 +152,7 @@ Further readings (not required)
 - [Barabas, Jason. 2011. “Public Opinion, the Media, and Economic Well-Being.” In *The Oxford Handbook of American Public Opinion and the Media.* Shapiro, Robert Y, and Lawrence R Jacobs, eds. Oxford.]
 (http://www.jasonbarabas.com/images/Barabas_Ch36_OxfordHandbook_Economic.pdf)
 
-##### Week 7. Are the mass media shaped by political institutions?
+##### Week 8. Are the mass media shaped by political institutions?
 
 - [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://github.com/jmrphy/course_media_politics/blob/master/Bennett_Indexing_1990.pdf?raw=true)
 
@@ -154,7 +164,7 @@ Further readings (not required)
 
 - [*Frustration in the White House Press Corps*, December 13, 2013. Bob Garfield, On The Media podcast.](http://www.onthemedia.org/story/frustration-white-house-press-corps/)
 
-##### Week 8. Are the mass media shaped by economic institutions?
+##### Week 9. Are the mass media shaped by economic institutions?
 
 - [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
 
@@ -168,7 +178,7 @@ Additional readings:
 
 [Prior, M. 2013. “Media and Political Polarization.” Annual Review of Political Science.](http://www.princeton.edu/~mprior/Prior%20MediaPolarization.pdf)
 
-##### Week 9. How do the mass media represent different groups?
+##### Week 10. How do the mass media represent different groups?
 
 "Willie Horton" ad, George H.W. Bush, 1988, 30 sec.
 [![Willie Horton ad screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7154335c185b5f95bd0e251178abadba25.png)](http://www.youtube.com/watch?v=Io9KMSSEZ0Y)
@@ -183,7 +193,6 @@ Additional readings:
 
 [![Racism on TV screenshot](http://tardis1.tinygrab.com/grabs/3db0911c719566a28be045201993d64e00e148ec48.png)](http://www.youtube.com/watch?v=i3CBUm7GrNI)
 
-
 [Media Coverage of the 2011 London Riots, a multimedia collection](http://storify.com/jmrphy/coverage-of-the-2011-london-riots)
 
 Additional reading:
@@ -192,7 +201,7 @@ Additional reading:
 
 ["Jesse Helms, John McCain and the Mark of the White Hands", John Nichols, *The Nation*, 2008](http://www.thenation.com/blog/jesse-helms-john-mccain-and-mark-white-hands)
 
-##### Week 10. Do the internet and social media lead to revolution against authoritarian regimes?
+##### Week 11. Do the internet and social media lead to revolution against authoritarian regimes?
 
 *Statement of Subcomandante Marcos to the NYC Freeing the Media Teach-In*, Subcomandante Marcos of the EZLN, 1997, 9:25 min.
 
@@ -206,7 +215,7 @@ Additional reading:
 
 - [Tunisia's Twitter Revolution, Marc Lynch interviewed by Brooke Gladstone, On The Media Podcast, January 21, 2011.](http://www.onthemedia.org/story/133051-tunisias-twitter-revolution/)
 
-##### Week 11. Or do all media just make states stronger and more oppressive?
+##### Week 12. Or do all media just make states stronger and more oppressive?
 
 [MacKinnon, Rebecca. 2011. “China's “Networked Authoritarianism”.” Journal of Democracy 22(2): 32–46.](https://github.com/jmrphy/course_media_politics/blob/master/MacKinnon_Networked_Authoritarianism_2011.pdf?raw=true)
 
