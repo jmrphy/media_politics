@@ -100,7 +100,7 @@ Introductions.
 
 ##### Week 4. Early social science of the media
 
-- [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](http://people.virginia.edu/~dat8a/nclc345/resources/McLuhan1964.pdf)
+- [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](https://www.dropbox.com/s/slau5qnfngiz76n/McLuhan_Understanding_Media_1964.pdf?dl=0)
 
 - [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf)
 
