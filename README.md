@@ -102,7 +102,7 @@ Introductions.
 
 - [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](https://www.dropbox.com/s/slau5qnfngiz76n/McLuhan_Understanding_Media_1964.pdf?dl=0)
 
-- [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf)
+- [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf) Read up to pp. 28 of the PDF.
 
 *The Medium is the Message*, lecture by Marshall Mcluhan, 1979, 14 min.
 [![Mcluhan screenshot](http://tardis1.tinygrab.com/grabs/3db0911c715ddff78a0c3ed917ee4fb0d088fea555.png)](http://www.youtube.com/watch?v=ImaH51F4HBw)
