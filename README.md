@@ -104,10 +104,14 @@ Introductions.
 
 - [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf) Read up to pp. 28 of the PDF.
 
-*The Medium is the Message*, lecture by Marshall Mcluhan, 1979, 14 min.
-[![Mcluhan screenshot](http://tardis1.tinygrab.com/grabs/3db0911c715ddff78a0c3ed917ee4fb0d088fea555.png)](http://www.youtube.com/watch?v=ImaH51F4HBw)
+["*The Medium is the Message* at 50", *On the Media* podcast, October 17, 2014. 7:53 minutes.](http://www.onthemedia.org/story/medium-message-50/)
 
 *Further readings (not required):*
+
+- ["McLuhanisms 50 years later", Interview with Nicholas Carr on McLuhan. *On the Media* podcast, October 17, 2014. 7:53 minutes.](http://www.onthemedia.org/story/mcluhanisms-50-years-later)
+
+- *The Medium is the Message*, lecture by Marshall Mcluhan, 1979, 14 min.
+[![Mcluhan screenshot](http://tardis1.tinygrab.com/grabs/3db0911c715ddff78a0c3ed917ee4fb0d088fea555.png)](http://www.youtube.com/watch?v=ImaH51F4HBw)
 
 - [Ellul, Jacques. 1965. *Propaganda: The Formation of Men's Attitudes*. New York: Knopf.](http://monoskop.org/images/4/44/Ellul_Jacques_Propaganda_The_Formation_of_Mens_Attitudes.pdf)
 
