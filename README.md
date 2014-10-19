@@ -100,11 +100,11 @@ Introductions.
 
 ##### Week 4. Early social science of the media
 
-- [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](https://www.dropbox.com/s/slau5qnfngiz76n/McLuhan_Understanding_Media_1964.pdf?dl=0)
+- [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](https://www.dropbox.com/s/slau5qnfngiz76n/McLuhan_Understanding_Media_1964.pdf?dl=0) Read pages 1-8.
 
-- [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf) Read up to pp. 28 of the PDF.
+- [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf) Read the introduction (pp. 11-28 of the PDF, xi-xxiii of the book).
 
-["*The Medium is the Message* at 50", *On the Media* podcast, October 17, 2014. 7:53 minutes.](http://www.onthemedia.org/story/medium-message-50/)
+- ["*The Medium is the Message* at 50", *On the Media* podcast, October 17, 2014. 7:53 minutes.](http://www.onthemedia.org/story/medium-message-50/)
 
 *Further readings (not required):*
 
