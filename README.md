@@ -121,11 +121,11 @@ Introductions.
 
 ##### Week 5. The rise of an institutionalized mainstream in the social science of the media
 
-- [Klapper, Joseph T. 1957. “What We Know About the Effects of Mass Communication: the Brink of Hope.” Public Opinion Quarterly 21(4): 453–74.](https://github.com/jmrphy/course_media_politics/blob/master/Klapper_Effects_1957.pdf?raw=true)
+- [Klapper, Joseph T. 1957. “What We Know About the Effects of Mass Communication: the Brink of Hope.” Public Opinion Quarterly 21(4): 453–74.](https://www.dropbox.com/s/jhjbacfwb3ke8z2/Klapper_Effects_1957.pdf?dl=0)
 
 - [Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambridge University Press.](https://www.dropbox.com/s/2de7k50gg40n22c/Zaller_Mass_Opinion_1992.pdf?dl=0)
 
-- [Pooley, Jefferson. 2006. “Fifteen Pages That Shook the Field: Personal Influence, Edward Shils, and the Remembered History of Mass Communication Research.” The Annals of the American Academy of Political and Social Science 608(1): 130–56.](https://github.com/jmrphy/course_media_politics/blob/master/Pooley_Shook_The_Field_2006.pdf?raw=true)
+- [Pooley, Jefferson. 2006. “Fifteen Pages That Shook the Field: Personal Influence, Edward Shils, and the Remembered History of Mass Communication Research.” The Annals of the American Academy of Political and Social Science 608(1): 130–56.](https://www.dropbox.com/s/8ly3mnbo9sejsk4/Pooley_Shook_The_Field_2006.pdf?dl=0)
 
 Further readings (not required)
 
