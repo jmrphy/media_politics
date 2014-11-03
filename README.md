@@ -135,11 +135,11 @@ Further readings (not required)
 
 - [Converse, Philip E. 1964. “The Nature of Belief Systems in Mass Publics.” In Ideology and Its Discontents, ed. David E Apter. New York: The New Press of Glencoe.](https://www.dropbox.com/s/il32uh0u1idj9jg/Converse_Belief_Systems.pdf?dl=0)
 
-- [Gitlin, Todd. 1978. “Media Sociology.” Theory and Society 6(2): 205–53.](https://github.com/jmrphy/course_media_politics/blob/master/Gitlin_Media_Sociology_1978.pdf?raw=true)
+- [Gitlin, Todd. 1978. “Media Sociology.” Theory and Society 6(2): 205–53.](https://www.dropbox.com/s/rp3yz3hhzeoq8dc/Gitlin_Media_Sociology_1978.pdf?dl=0)
 
 ##### Week 6. Do the mass media enforce government transparency and accountability?
 
-- [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://github.com/jmrphy/course_media_politics/blob/master/Brunetti_Weder_Press_Corruption_2003.pdf?raw=true)
+- [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://www.dropbox.com/s/xaczl2e4wcwmvoa/Brunetti_Weder_Press_Corruption_2003.pdf?dl=0)
 
 - [Feldstein, Mark. 2004. “Watergate Revisited.” *American Journalism Review*.](http://ajrarchive.org/article.asp?id=3735)
 
@@ -149,11 +149,11 @@ Further readings (not required)
 
 [CHOI, SEUNG-WHAN, and Patrick James. 2006. “Media Openness, Democracy and Militarized Interstate Disputes.” British Journal of Political Science 37(01): 23.](http://dornsife.usc.edu/assets/sites/429/docs/Media_Openness_Democracy_and_Militarized_Interstate_Disputes.pdf)
 
-[Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://github.com/jmrphy/course_media_politics/blob/master/Snyder_Stromberg_Press_Accountability_2008.pdf?raw=true)
+[Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://www.dropbox.com/s/ecvab32qdo8ev1z/Snyder_Stromberg_Press_Accountability_2008.pdf?dl=0)
 
 ##### Week 7. Or are the mass media propaganda machines?
 
-- [Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://github.com/jmrphy/course_media_politics/blob/master/Chomsky_Herman_Consent_1988.pdf?raw=true)
+- [Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://www.dropbox.com/s/jp4120x9zw23p3q/Chomsky_Herman_Consent_1988.pdf?dl=0)
 
 - [Kern, H L, and J Hainmueller. 2009. “Opium for the Masses: How Foreign Media Can Stabilize Authoritarian Regimes.” *Political Analysis* 17(4): 377–99.](http://www.stanford.edu/~jhain/Paper/OVM2009.pdf)
 
@@ -162,11 +162,11 @@ Further readings (not required)
 
 ##### Week 8. Are the mass media shaped by political institutions?
 
-- [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://github.com/jmrphy/course_media_politics/blob/master/Bennett_Indexing_1990.pdf?raw=true)
+- [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://www.dropbox.com/s/5k9ng7o9vt1tx41/Bennett_Indexing_1990.pdf?dl=0)
 
 - [Baek, Mijeong. 2009. “A Comparative Analysis of Political Communication Systems and Voter Turnout.” *American Journal of Political Science*: 1–19.](http://jpmarin27.pbworks.com/f/more%20comm.pdf)
 
-- [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
+- [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://www.dropbox.com/s/9cxrb7p1nxcnvln/Baum_Press_Party_Systems_2012.pdf?dl=0)
 
 - [*And I'm Not Going to Take it Anymore*, Andrea Seabrook interviewed by Bob Garfield, On The Media podcast. August 24, 2012.](http://www.onthemedia.org/story/232582-and-im-not-going-take-it-anymore/)
 
@@ -174,11 +174,11 @@ Further readings (not required)
 
 ##### Week 9. Are the mass media shaped by economic institutions?
 
-- [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://github.com/jmrphy/course_media_politics/blob/master/Petrova_Media_Capture_2008.pdf?raw=true)
+- [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://www.dropbox.com/s/u4pzbd97bk5jj2q/Petrova_Media_Capture_2008.pdf?dl=0)
 
 - [Prior, Markus. 2005. “News vs. Entertainment: How Increasing Media Choice Widens Gaps in Political Knowledge and Turnout.” *American Journal of Political Science* 49(3): 577–92.](http://www.princeton.edu/~mprior/Prior2005.News%20v%20Entertainment.AJPS.pdf)
 
-- [Aalberg, Toril, Peter van Aelst, and James Curran. 2010. “Media Systems and the Political Information Environment: a Cross-National Comparison.” International Journal of Politics, Culture, and Society 15(3): 255–71.](http://webh01.ua.ac.be/m2p/publications/1300823971.pdf)
+- [Aalberg, Toril, Peter van Aelst, and James Curran. 2010. “Media Systems and the Political Information Environment: a Cross-National Comparison.” International Journal of Politics, Culture, and Society 15(3): 255–71.](https://www.dropbox.com/s/582o59ixj7sn11d/Aalberg_Commercialization_News_2010.pdf?dl=0)
 
 [Eisensee, Thomas, and David Strömberg. 2007. “News Droughts, News Floods, and U.S. Disaster Relief.” The Quarterly Journal of Economics: 1–36.](http://people.su.se/~dstro/Disasters.pdf)
 
