@@ -219,7 +219,7 @@ Additional reading:
 [![Dominguez et al screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7108677d33ab630a1c89b5ef3a16321308.png)](http://www.youtube.com/watch?v=O-U-he8LN3k)
 
 
-- [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://github.com/jmrphy/course_media_politics/blob/master/Safranek_Social_Media_Regime_Change_2012.pdf?raw=true)
+- [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://www.dropbox.com/s/r5r2005hnvng3yy/Safranek_Social_Media_Regime_Change_2012.pdf?dl=0)
 
 - [Tunisia's Twitter Revolution, Marc Lynch interviewed by Brooke Gladstone, On The Media Podcast, January 21, 2011.](http://www.onthemedia.org/story/133051-tunisias-twitter-revolution/)
 
