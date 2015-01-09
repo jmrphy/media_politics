@@ -225,8 +225,16 @@ Additional reading:
 
 ##### Week 12. Or do all media just make states stronger and more oppressive?
 
-[MacKinnon, Rebecca. 2011. “China's “Networked Authoritarianism”.” Journal of Democracy 22(2): 32–46.](https://github.com/jmrphy/course_media_politics/blob/master/MacKinnon_Networked_Authoritarianism_2011.pdf?raw=true)
+[MacKinnon, Rebecca. 2011. "China's 'Networked Authoritarianism.'" *Journal of Democracy* 22(2): 32–46.](https://www.dropbox.com/s/nm7983z5ugafq21/MacKinnon_Networked_Authoritarianism_2011.pdf?dl=0)
+
+[Hassanpour, N., 2014. Media Disruption and Revolutionary Unrest: Evidence From Mubarak's Quasi-Experiment. Political Communication, 31(1), pp.1–24.](https://www.dropbox.com/s/6p7qubnly6boqqh/Hassanpour_2014.pdf?dl=0)
+
+[Barberá, P., How Social Media Reduces Mass Political Polarization: Evidence from Germany, Spain, and the U.S. Unpublished Manuscript.](https://files.nyu.edu/pba220/public/barbera-polarization-social-media.pdf)
+
+Morozov, E., 2011. The Net Delusion: The Dark Side of Internet Freedom, New York: Public Affairs.
 
 [![Morozov video screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7137eede70581fd815bb497f6c0cb9120b.png)](http://www.youtube.com/watch?v=Uk8x3V-sUgU&feature=share&list=PL30A3187AF935427D&index=1)
+
+
 
 
