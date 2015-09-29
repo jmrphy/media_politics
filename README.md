@@ -27,18 +27,20 @@
 **Website:** [http://jmrphy.net](http://jmrphy.net)   
 **Twitter:** [@jmrphy](http://twitter.com/jmrphy)   
 **Office:** Building 58, Room 3083   
-**Lecture:** Thursday 10am - 12pm   
-**Tutorial:** Thursday 5pm - 6pm   
+**Lecture:** Wednesday 9am - 11am   
+**Tutorial:** Friday 5pm - 6pm   
 **Contact and feedback hours:**   
-Monday 2pm - 4pm   
-Friday 2pm - 4pm 
+Thursday 1pm - 2pm   
+Friday 2pm - 3pm
+**Make an appointment:**
+[j.mp/schedule_meeting](j.mp/schedule_meeting)
 
 > "The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society." - Edward Bernays, 1928
 
 
 > "...we called for the creation of a network of independent media, a network of information. We mean a network to resist the power of the lie that sells us this war that we call the Fourth World War. We need this network not only as a tool for our social movements, but for our lives: this is a project of life, of humanity, humanity which has a right to critical and truthful information." - Subcomandante Marcos of the Zapatista Army of National Liberation, 1997
 
-This course provides a theoretical and empirical overview of the role played by information, communication, and media within the politics of the modern state. Students are introduced to canonical as well as marginal and emerging perspectives on media politics and asked to weigh them against the historical record. Course materials are in a wide variety of media. All of the materials are digital and freely available through links on the course website.
+This module provides a theoretical and empirical overview of the role played by information, communication, and media within the politics of the modern state. Students are introduced to canonical, scholarly, popular, as well as marginal and emerging perspectives on media politics and asked to weigh them against the historical record. Course materials are in a wide variety of media. All of the materials are digital and freely available through links on the module website (http://jmrphy.net/.
 
 Each week will be devoted to a theme. Typically, each week’s materials have been curated to expose the student to the dominant theoretical perspective, a dissident or heterodox perspective, and something empirical (qualitative or quantitative) to help fix ideas. The balance of these materials will be variable and depend on the nature of theme.
 
