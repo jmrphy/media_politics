@@ -1,3 +1,7 @@
+## Politics of the Media (PAIR 2023/3032)
+### Fall 2015    
+### Justin Murphy 
+
   [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
@@ -75,7 +79,7 @@ Students will submit a mid-term essay (maximum of 1500 words) worth 30% of the o
 
 #### Re-sits
 
-The student will re-write both essays following the same instructions as found on the [module handbook](http://jmrphy.net/course_media_politics/#assessment) but the word counts will be a maximum of 2000 words for the first essay and 2500 words for the second essay, and with two additional exceptions. As stated in the module handbook, the student is free to design their own essay questions so long as it pertains to the course material and the answer uses material and knowledge gained through the module. However, whereas the handbook states students may pursue the same question in both assessments to improve their first effort, students re-sitting this module must ask and answer different questions for each essay given that they will be doing them at the same time.  Also, if a student re-sitting prefers to have a question prompts, [the convenor](mailto:j.murphy@soton.ac.uk) will gladly provide one optional prompt per question to any students re-sitting the module.
+The student will re-write both essays following the same instructions as found on the [module handbook](http://jmrphy.net/media_politics/#assessment) but the word counts will be a maximum of 2000 words for the first essay and 2500 words for the second essay, and with two additional exceptions. As stated in the module handbook, the student is free to design their own essay questions so long as it pertains to the course material and the answer uses material and knowledge gained through the module. However, whereas the handbook states students may pursue the same question in both assessments to improve their first effort, students re-sitting this module must ask and answer different questions for each essay given that they will be doing them at the same time.  Also, if a student re-sitting prefers to have a question prompts, [the convenor](mailto:j.murphy@soton.ac.uk) will gladly provide one optional prompt per question to any students re-sitting the module.
 
 ### Schedule
 =====================================
@@ -92,7 +96,7 @@ Introductions.
 
 ##### Week 3. The beginnings of the mass media
 
-- [Chomsky, Noam. 1991. *Media Control: The Spectacular Achievements of Propaganda*. New York: Seven Stories Press.](http://library.uniteddiversity.coop/Media_and_Free_Culture/Noam_Chomsky-Media_Control.pdf) Pages 1-30 of the PDF.
+- [Chomsky, Noam. 1991. *Media Control: The Spectacular Achievements of Propaganda*. New York: Seven Stories Press.](http://ethosworld.com/library/Chomsky-Media-Control-The-Spectacular-Achievements-of-Propaganda-(1991).pdf) Pages 1-30 of the PDF.
 
 - [Bernays, Edward L. 1928/2004. *Propaganda*. Ig Publishing.](http://www.whale.to/b/bernays.pdf) Pages 1-40 of the PDF.
 
