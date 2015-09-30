@@ -88,7 +88,7 @@ Introductions.
 
 - [*You're not surfing the net, you're drowning in it! A university practicum for the internet life*, January 2014, Justin Murphy.](https://github.com/jmrphy/internet_practicum/blob/master/README.md)
 
-[*A Conversation with the Man Who Tweets Revolutions*. February 1, 2013. Andy Carvin and Brooke Gladstone, On The Media podcast.](http://www.onthemedia.org/story/266599-conversation-man-who-tweets-revolutions/?utm_source=local&utm_media=treatment&utm_campaign=daMost&utm_content=damostviewed)
+- [*A Conversation with the Man Who Tweets Revolutions*. February 1, 2013. Andy Carvin and Brooke Gladstone, On The Media podcast.](http://www.onthemedia.org/story/266599-conversation-man-who-tweets-revolutions/?utm_source=local&utm_media=treatment&utm_campaign=daMost&utm_content=damostviewed)
 
 ##### Week 3. The beginnings of the mass media
 
@@ -96,11 +96,11 @@ Introductions.
 
 - [Bernays, Edward L. 1928/2004. *Propaganda*. Ig Publishing.](http://www.whale.to/b/bernays.pdf) Pages 1-40 of the PDF.
 
-- [Lippmann, Walter. 1922. *Public Opinion*. Harcourt, Brace and Company.](https://ia700605.us.archive.org/13/items/PublicOpinion/lippmann_walter_1889_1974_public_opinion.pdf) Pages 1-26 of the PDF.
+- [Lippmann, Walter. 1922. *Public Opinion*. Harcourt, Brace and Company.](http://wps.pearsoncustom.com/wps/media/objects/2429/2487430/pdfs/lippmann.pdf) Pages 1-26 of the PDF.
 
 ##### Week 4. Early social science of the media
 
-- [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](https://www.dropbox.com/s/slau5qnfngiz76n/McLuhan_Understanding_Media_1964.pdf?dl=0) Read pages 1-8.
+- [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](https://www.dropbox.com/s/38v3s6wcvim6xch/McLuhan_Understanding_Media_1964.pdf?dl=0) Read pages 1-8.
 
 - [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf) Read the introduction (pp. 11-28 of the PDF, xi-xxiii of the book).
 
@@ -121,11 +121,11 @@ Introductions.
 
 ##### Week 5. The rise of an institutionalized mainstream in the social science of the media
 
-- [Klapper, Joseph T. 1957. “What We Know About the Effects of Mass Communication: the Brink of Hope.” Public Opinion Quarterly 21(4): 453–74.](https://www.dropbox.com/s/jhjbacfwb3ke8z2/Klapper_Effects_1957.pdf?dl=0)
+- [Klapper, Joseph T. 1957. “What We Know About the Effects of Mass Communication: the Brink of Hope.” Public Opinion Quarterly 21(4): 453–74.](https://www.dropbox.com/s/it9ikrsncb1knj5/Klapper_Effects_1957.pdf?dl=0)
 
-- [Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambridge University Press.](https://www.dropbox.com/s/2de7k50gg40n22c/Zaller_Mass_Opinion_1992.pdf?dl=0)
+- [Zaller, John R. 1992. The Nature and Origins of Mass Opinion. Cambridge: Cambridge University Press.](https://www.dropbox.com/s/7rb8tp9jiuo8yy3/Zaller_Mass_Opinion_1992.pdf?dl=0)
 
-- [Pooley, Jefferson. 2006. “Fifteen Pages That Shook the Field: Personal Influence, Edward Shils, and the Remembered History of Mass Communication Research.” The Annals of the American Academy of Political and Social Science 608(1): 130–56.](https://www.dropbox.com/s/8ly3mnbo9sejsk4/Pooley_Shook_The_Field_2006.pdf?dl=0)
+- [Pooley, Jefferson. 2006. “Fifteen Pages That Shook the Field: Personal Influence, Edward Shils, and the Remembered History of Mass Communication Research.” The Annals of the American Academy of Political and Social Science 608(1): 130–56.](https://www.dropbox.com/s/jeppbx7xmzqer7w/Pooley_Shook_The_Field_2006.pdf?dl=0)
 
 Further readings (not required)
 
@@ -133,13 +133,13 @@ Further readings (not required)
 
 - [Campbell, Angus, Philip E Converse, Warren E Miller, and Donald E Stokes. 1960/1980. The American Voter. Chicago: University of Chicago Press.](http://books.google.co.uk/books?id=JeYUrs_GOcMC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false.)
 
-- [Converse, Philip E. 1964. “The Nature of Belief Systems in Mass Publics.” In Ideology and Its Discontents, ed. David E Apter. New York: The New Press of Glencoe.](https://www.dropbox.com/s/il32uh0u1idj9jg/Converse_Belief_Systems.pdf?dl=0)
+- [Converse, Philip E. 1964. “The Nature of Belief Systems in Mass Publics.” In Ideology and Its Discontents, ed. David E Apter. New York: The New Press of Glencoe.](https://www.dropbox.com/s/oabpic3jphnsnsc/Converse_Belief_Systems.pdf?dl=0)
 
-- [Gitlin, Todd. 1978. “Media Sociology.” Theory and Society 6(2): 205–53.](https://www.dropbox.com/s/rp3yz3hhzeoq8dc/Gitlin_Media_Sociology_1978.pdf?dl=0)
+- [Gitlin, Todd. 1978. “Media Sociology.” Theory and Society 6(2): 205–53.](https://www.dropbox.com/s/d4xy17lmcrmja31/Gitlin_Media_Sociology_1978.pdf?dl=0)
 
 ##### Week 6. Do the mass media enforce government transparency and accountability?
 
-- [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://www.dropbox.com/s/xaczl2e4wcwmvoa/Brunetti_Weder_Press_Corruption_2003.pdf?dl=0)
+- [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://www.dropbox.com/s/8667ubcyj5uykd9/Brunetti_Weder_Press_Corruption_2003.pdf?dl=0)
 
 - [Feldstein, Mark. 2004. “Watergate Revisited.” *American Journalism Review*.](http://ajrarchive.org/article.asp?id=3735)
 
@@ -147,13 +147,13 @@ Further readings (not required)
 
 - [Slantchev, Branislvav L. 2006. “Politicians, the Media, and Domestic Audience Costs.” *International Studies Quarterly* 50(2): 445–77.](http://escholarship.org/uc/item/58c3h5zg)
 
-[CHOI, SEUNG-WHAN, and Patrick James. 2006. “Media Openness, Democracy and Militarized Interstate Disputes.” British Journal of Political Science 37(01): 23.](http://dornsife.usc.edu/assets/sites/429/docs/Media_Openness_Democracy_and_Militarized_Interstate_Disputes.pdf)
+- [CHOI, SEUNG-WHAN, and Patrick James. 2006. “Media Openness, Democracy and Militarized Interstate Disputes.” British Journal of Political Science 37(01): 23.](http://dornsife.usc.edu/assets/sites/429/docs/Media_Openness_Democracy_and_Militarized_Interstate_Disputes.pdf)
 
-[Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://www.dropbox.com/s/ecvab32qdo8ev1z/Snyder_Stromberg_Press_Accountability_2008.pdf?dl=0)
+- [Snyder, James M Jr, and David Strömberg. 2012. “Press Coverage and Political Accountability.” Journal of Political Economy: 1–47.](https://www.dropbox.com/s/4gbdc308y7h016f/Snyder_Stromberg_Press_Accountability_2008.pdf?dl=0)
 
 ##### Week 7. Or are the mass media propaganda machines?
 
-- [Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://www.dropbox.com/s/jp4120x9zw23p3q/Chomsky_Herman_Consent_1988.pdf?dl=0)
+- [Herman, Edward S, and Noam Chomsky. 1988. *Manufacturing Consent: the Political Economy of the Mass Media.* New York: Pantheon.](https://www.dropbox.com/s/1xlsftu1xvhahso/Chomsky_Herman_Consent_1988.pdf?dl=0)
 
 - [Kern, H L, and J Hainmueller. 2009. “Opium for the Masses: How Foreign Media Can Stabilize Authoritarian Regimes.” *Political Analysis* 17(4): 377–99.](http://www.stanford.edu/~jhain/Paper/OVM2009.pdf)
 
@@ -162,11 +162,11 @@ Further readings (not required)
 
 ##### Week 8. Are the mass media shaped by political institutions?
 
-- [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://www.dropbox.com/s/5k9ng7o9vt1tx41/Bennett_Indexing_1990.pdf?dl=0)
+- [Bennett, W Lance. 1990. “Toward a Theory of Press-State Relations in the United States.” International Studies Quarterly 40(2): 103–27.](https://www.dropbox.com/s/kaf79eu5env2725/Bennett_Indexing_1990.pdf?dl=0)
 
 - [Baek, Mijeong. 2009. “A Comparative Analysis of Political Communication Systems and Voter Turnout.” *American Journal of Political Science*: 1–19.](http://jpmarin27.pbworks.com/f/more%20comm.pdf)
 
-- [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://www.dropbox.com/s/9cxrb7p1nxcnvln/Baum_Press_Party_Systems_2012.pdf?dl=0)
+- [Baum, Matthew A. 2012. “The Iraq Coalition of the Willing and (Politically) Able: Party Systems, the Press, and Public Influence on Foreign Policy.” American Journal of Political Science 57(2): 442–58.](https://www.dropbox.com/s/o1n6x0y9o1e31i0/Baum_Press_Party_Systems_2012.pdf?dl=0)
 
 - [*And I'm Not Going to Take it Anymore*, Andrea Seabrook interviewed by Bob Garfield, On The Media podcast. August 24, 2012.](http://www.onthemedia.org/story/232582-and-im-not-going-take-it-anymore/)
 
@@ -178,9 +178,9 @@ Further readings (not required)
 
 - [Prior, Markus. 2005. “News vs. Entertainment: How Increasing Media Choice Widens Gaps in Political Knowledge and Turnout.” *American Journal of Political Science* 49(3): 577–92.](http://www.princeton.edu/~mprior/Prior2005.News%20v%20Entertainment.AJPS.pdf)
 
-- [Aalberg, Toril, Peter van Aelst, and James Curran. 2010. “Media Systems and the Political Information Environment: a Cross-National Comparison.” International Journal of Politics, Culture, and Society 15(3): 255–71.](https://www.dropbox.com/s/582o59ixj7sn11d/Aalberg_Commercialization_News_2010.pdf?dl=0)
+- [Aalberg, Toril, Peter van Aelst, and James Curran. 2010. “Media Systems and the Political Information Environment: a Cross-National Comparison.” International Journal of Politics, Culture, and Society 15(3): 255–71.](https://www.dropbox.com/s/9v5sxmeu7gnatr9/Aalberg_Commercialization_News_2010.pdf?dl=0)
 
-[Eisensee, Thomas, and David Strömberg. 2007. “News Droughts, News Floods, and U.S. Disaster Relief.” The Quarterly Journal of Economics: 1–36.](http://people.su.se/~dstro/Disasters.pdf)
+- [Eisensee, Thomas, and David Strömberg. 2007. “News Droughts, News Floods, and U.S. Disaster Relief.” The Quarterly Journal of Economics: 1–36.](http://perseus.iies.su.se/~dstro/Disasters.pdf)
 
 Additional readings:
 
@@ -213,23 +213,23 @@ Additional reading:
 
 *Statement of Subcomandante Marcos to the NYC Freeing the Media Teach-In*, Subcomandante Marcos of the EZLN, 1997, 9:25 min.
 
-[![Marcos screenshot](http://tardis1.tinygrab.com/grabs/3db0911c716ea7a36a82f47f339f19f79a5de0a598.png)](http://www.youtube.com/watch?v=s8nAey4OZJg)
+[![Marcos screenshot](http://tardis1.tinygrab.com/grabs/3db0911c716ea7a36a82f47f339f19f79a5de0a598.png)](https://www.youtube.com/watch?v=O3pHmHbqqTk)
 
 "Digital Zapatismo" featuring Electronic Disturbance Theatre, from *The Hacktivists*, 1997, 9:25 min.
 [![Dominguez et al screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7108677d33ab630a1c89b5ef3a16321308.png)](http://www.youtube.com/watch?v=O-U-he8LN3k)
 
 
-- [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://www.dropbox.com/s/r5r2005hnvng3yy/Safranek_Social_Media_Regime_Change_2012.pdf?dl=0)
+- [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://www.dropbox.com/s/21ly2tceoiob1z1/Safranek_Social_Media_Regime_Change_2012.pdf?dl=0)
 
 - [Tunisia's Twitter Revolution, Marc Lynch interviewed by Brooke Gladstone, On The Media Podcast, January 21, 2011.](http://www.onthemedia.org/story/133051-tunisias-twitter-revolution/)
 
 ##### Week 12. Or do all media just make states stronger and more oppressive?
 
-[MacKinnon, Rebecca. 2011. "China's 'Networked Authoritarianism.'" *Journal of Democracy* 22(2): 32–46.](https://www.dropbox.com/s/nm7983z5ugafq21/MacKinnon_Networked_Authoritarianism_2011.pdf?dl=0)
+[MacKinnon, Rebecca. 2011. "China's 'Networked Authoritarianism.'" *Journal of Democracy* 22(2): 32–46.](https://www.dropbox.com/s/0au241j8qmd8sn4/MacKinnon_Networked_Authoritarianism_2011.pdf?dl=0)
 
-[Hassanpour, N., 2014. Media Disruption and Revolutionary Unrest: Evidence From Mubarak's Quasi-Experiment. Political Communication, 31(1), pp.1–24.](https://www.dropbox.com/s/6p7qubnly6boqqh/Hassanpour_2014.pdf?dl=0)
+[Hassanpour, N., 2014. Media Disruption and Revolutionary Unrest: Evidence From Mubarak's Quasi-Experiment. Political Communication, 31(1), pp.1–24.](https://www.dropbox.com/s/3c6qwht9j1mztet/Hassanpour_2014.pdf?dl=0)
 
-[Barberá, P., How Social Media Reduces Mass Political Polarization: Evidence from Germany, Spain, and the U.S. Unpublished Manuscript.](https://files.nyu.edu/pba220/public/barbera-polarization-social-media.pdf)
+[Barberá, P., How Social Media Reduces Mass Political Polarization: Evidence from Germany, Spain, and the U.S. Unpublished Manuscript.](http://smapp.nyu.edu/papers/SocialMediaReduces.pdf)
 
 Morozov, E., 2011. The Net Delusion: The Dark Side of Internet Freedom, New York: Public Affairs.
 
