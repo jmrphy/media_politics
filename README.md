@@ -1,7 +1,3 @@
-## Politics of the Media (PAIR 2023/3032)
-### Fall 2015    
-### Justin Murphy 
-
   [Overview](#overview)    
 - [Summary of teaching and learning strategies](#summary-of-teaching-and-learning-strategies)   
 - [Aims and objectives](#aims-and-objectives)   
