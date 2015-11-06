@@ -73,9 +73,11 @@ Having successfully completed the module, students will:
 
 Students will submit a mid-term essay (maximum of 1500 words) worth 30% of the overall module mark (due at 3:00pm on Monday November 16th). Students will also submit an end-of-term essay (maximum of 3000 words) worth 60% of overall module mark (due at 3:00pm on January 8th). Also, an [internet-based political communications practicum](https://github.com/jmrphy/internet_practicum/blob/master/README.md), used throughout the semester, will be worth 10% of the overall module mark.
 
-Midterm Essay Prompt: "How has the rise of mass media had an effect on politics? Answer the question with one specific possible effect which is observable in history. Briefly compare two countries over a particular time period (with different experiences regarding the rise of mass media) to test your hypothesis."
+- [Rubric for Essay Marking](https://www.dropbox.com/s/z7tupy6swwqhj30/essay_rubric.xlsx?dl=0)
 
-Final Essay Prompt: "What is the relationship between the internet and different types of political protest?" Compare two or more countries (different than the countries you chose for the mid-term!)."
+Optional Midterm Essay Prompt: "How has the rise of mass media had an effect on politics? Answer the question with one specific possible effect which is observable in history. Briefly compare two countries over a particular time period (with different experiences regarding the rise of mass media) to test your hypothesis."
+
+Optional Final Essay Prompt: "What is the relationship between the internet and different types of political protest?" Compare two or more countries (different than the countries you chose for the mid-term!)."
 
 [Here is some data on media across countries and over time, which you can use for your investigations, although it is not required that you use it.](https://www.dropbox.com/s/qge7b2flh98vcal/media_politics.csv?dl=0) If you use this, cite: Banks, Arthur and Kenneth Wilson. "Cross-National Time-Series Data Archive." 2005. Binghamton, NY.
 
