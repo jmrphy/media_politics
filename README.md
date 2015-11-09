@@ -93,7 +93,7 @@ The student will re-write both essays following the same instructions as found o
 
 Introductions.
 
-- [Lecture slides.](media_politics/slides/introduction/introduction.html)
+- [Lecture slides.](http://jmrphy.net/media_politics/slides/1_introduction/introduction.html)
 
 ##### Week 2. Internet practicum
 
@@ -109,13 +109,17 @@ Introductions.
 
 - [Lippmann, Walter. 1922. *Public Opinion*. Harcourt, Brace and Company.](http://wps.pearsoncustom.com/wps/media/objects/2429/2487430/pdfs/lippmann.pdf) Pages 1-26 of the PDF.
 
+- [Lecture slides](http://jmrphy.net/media_politics/slides/2_beginnings/democracy_propaganda_capitalism.pptx)
+
 ##### Week 4. Early social science of the media
 
-- [McLuhan, Marshall. 1964/1994. Understanding Media: The Extensions of Man. Cambridge, MA: MIT Press.](https://www.dropbox.com/s/38v3s6wcvim6xch/McLuhan_Understanding_Media_1964.pdf?dl=0) Read pages 1-8.
+- [McLuhan, Marshall. 1964/1994. *Understanding Media: The Extensions of Man.* Cambridge, MA: MIT Press.](https://www.dropbox.com/s/38v3s6wcvim6xch/McLuhan_Understanding_Media_1964.pdf?dl=0) Read pages 1-8.
 
 - [Wiener, Norbert. 1950/1989. *The Human Use of Human Beings: Cybernetics and Society*. London: Free Association Books.](http://21stcenturywiener.org/wp-content/uploads/2013/11/The-Human-Use-of-Human-Beings-by-N.-Wiener.pdf) Read the introduction (pp. 11-28 of the PDF, xi-xxiii of the book).
 
 - ["*The Medium is the Message* at 50", *On the Media* podcast, October 17, 2014. 7:53 minutes.](http://www.onthemedia.org/story/medium-message-50/)
+
+- [Lecture slides](http://jmrphy.net/media_politics/slides/3_early_science_of_media/early_science.html)
 
 *Further readings (not required):*
 
@@ -138,6 +142,8 @@ Introductions.
 
 - [Pooley, Jefferson. 2006. “Fifteen Pages That Shook the Field: Personal Influence, Edward Shils, and the Remembered History of Mass Communication Research.” The Annals of the American Academy of Political and Social Science 608(1): 130–56.](https://www.dropbox.com/s/jeppbx7xmzqer7w/Pooley_Shook_The_Field_2006.pdf?dl=0)
 
+- [Lecture slides](http://jmrphy.net/media_politics/slides/4_limited_effects/limited_effects.pptx)
+
 Further readings (not required)
 
 - [Katz, Elihu, and Paul F Lazarsfeld. 1955/2009. Personal Influence: The Part Played by People in the Flow of Mass Communications. Collier-Macmillan.](http://books.google.co.uk/books?id=rElW8D0D8gYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
@@ -153,6 +159,9 @@ Further readings (not required)
 - [Brunetti, Aymo, and Beatrice Weder. 2003. “A Free Press Is Bad News for Corruption.” Journal of Public Economics 87: 1801–24.](https://www.dropbox.com/s/8667ubcyj5uykd9/Brunetti_Weder_Press_Corruption_2003.pdf?dl=0)
 
 - [Feldstein, Mark. 2004. “Watergate Revisited.” *American Journalism Review*.](http://ajrarchive.org/article.asp?id=3735)
+
+- [Lecture slides](http://jmrphy.net/media_politics/slides/5_accountability/accountability.pptx)
+
 
 Further readings (not required)
 
@@ -170,6 +179,8 @@ Further readings (not required)
 
 - [Barabas, Jason. 2011. “Public Opinion, the Media, and Economic Well-Being.” In *The Oxford Handbook of American Public Opinion and the Media.* Shapiro, Robert Y, and Lawrence R Jacobs, eds. Oxford.]
 (http://www.jasonbarabas.com/images/Barabas_Ch36_OxfordHandbook_Economic.pdf)
+
+% - [Lecture slides](http://jmrphy.net/media_politics/slides/6_propaganda_model/propaganda_model.pptx)
 
 ##### Week 8. Are the mass media shaped by political institutions?
 
