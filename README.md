@@ -21,6 +21,7 @@
 
 ### Overview
 
+
 **Politics of the Media (PAIR2023 & PAIR3032)**   
 **Lecturer:** Justin Murphy   
 **Email:** j.murphy@soton.ac.uk   
@@ -91,6 +92,8 @@ The student will re-write both essays following the same instructions as found o
 ##### Week 1. Introduction
 
 Introductions.
+
+- [Lecture slides.](media_politics/slides/introduction/introduction.html)
 
 ##### Week 2. Internet practicum
 
