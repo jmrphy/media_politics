@@ -194,6 +194,8 @@ Further readings (not required)
 
 - [*Frustration in the White House Press Corps*, December 13, 2013. Bob Garfield, On The Media podcast.](http://www.onthemedia.org/story/frustration-white-house-press-corps/)
 
+- [Lecture slides](https://www.dropbox.com/s/x9qzi27t4zrxeif/political_institutions.pptx?dl=0)
+
 ##### Week 9. Are the mass media shaped by economic institutions?
 
 - [Petrova, Maria. 2008. “Inequality and Media Capture.” Journal of Public Economics 92(1-2): 183–212.](https://www.dropbox.com/s/u4pzbd97bk5jj2q/Petrova_Media_Capture_2008.pdf?dl=0)
@@ -203,6 +205,8 @@ Further readings (not required)
 - [Aalberg, Toril, Peter van Aelst, and James Curran. 2010. “Media Systems and the Political Information Environment: a Cross-National Comparison.” International Journal of Politics, Culture, and Society 15(3): 255–71.](https://www.dropbox.com/s/9v5sxmeu7gnatr9/Aalberg_Commercialization_News_2010.pdf?dl=0)
 
 - [Eisensee, Thomas, and David Strömberg. 2007. “News Droughts, News Floods, and U.S. Disaster Relief.” The Quarterly Journal of Economics: 1–36.](http://perseus.iies.su.se/~dstro/Disasters.pdf)
+
+- [Lecture slides](https://www.dropbox.com/s/zmsm8eube6o0s6g/Economic_factors.pptx?dl=0)
 
 Additional readings:
 
@@ -240,10 +244,11 @@ Additional reading:
 "Digital Zapatismo" featuring Electronic Disturbance Theatre, from *The Hacktivists*, 1997, 9:25 min.
 [![Dominguez et al screenshot](http://tardis1.tinygrab.com/grabs/3db0911c7108677d33ab630a1c89b5ef3a16321308.png)](http://www.youtube.com/watch?v=O-U-he8LN3k)
 
-
 - [Safranek, Rita. “The Emerging Role of Social Media in Political and Regime Change.” ProQuest Discovery Guides.](https://www.dropbox.com/s/21ly2tceoiob1z1/Safranek_Social_Media_Regime_Change_2012.pdf?dl=0)
 
 - [Tunisia's Twitter Revolution, Marc Lynch interviewed by Brooke Gladstone, On The Media Podcast, January 21, 2011.](http://www.onthemedia.org/story/133051-tunisias-twitter-revolution/)
+
+- [Lecture slides](http://jmrphy.net/media_politics/slides/web_rebellion/social_media_revolution.html)
 
 ##### Week 12. Or do all media just make states stronger and more oppressive?
 
