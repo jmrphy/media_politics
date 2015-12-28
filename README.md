@@ -248,7 +248,7 @@ Additional reading:
 
 - [Tunisia's Twitter Revolution, Marc Lynch interviewed by Brooke Gladstone, On The Media Podcast, January 21, 2011.](http://www.onthemedia.org/story/133051-tunisias-twitter-revolution/)
 
-- [Lecture slides](http://jmrphy.net/media_politics/slides/web_rebellion/social_media_revolution.html)
+- [Lecture slides](https://www.dropbox.com/s/sfouctp7as9t0ud/social_media_revolution.html?dl=0)
 
 ##### Week 12. Or do all media just make states stronger and more oppressive?
 
